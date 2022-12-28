@@ -16,14 +16,11 @@ As of now, I am anticipating concluding my undergraduate career on December 2023
 News
 ======
 
-**October 2022**
+**October 2022**: 
+I present at [Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/2022/) 2022!
 
-I present at [Carnegie Mellon Sports Analytics Conference 2022](https://www.stat.cmu.edu/cmsac/conference/2022/)!
 
-<br />
-
-**May 2022**
-
+**May 2022**: 
 I will be participating [Summer Undergraduate Research Experience in Statistics](http://summer.stat.cmu.edu/) at Carnegie Mellon University Department of Statistics & Data Science this summer!
 
 <br />
