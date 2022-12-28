@@ -15,9 +15,11 @@ author_profile: true
 Work in Progress
 ------
 
+<br />
+
 **A Regularized Adjusted Expected Goal Plus-Minus Model for Soccer**
 
-(with Edvin Tran Hoac, and Phong Hoang)
+(with [Edvin Tran Hoac](https://www.edvintranhoac.com/), and [Phong Hoang](https://medium.com/@IwriteDSblog))
 
 
 
