@@ -10,19 +10,23 @@ redirect_from:
 
 Hi! My name is Boyuan Zhang (张博源). I am a third-year undergraduate student at New York University joint majoring in Data Science and Computer Science, and double minoring in Mathematics and Business Studies. I am passionate about transforming insight from data and I am broadly interested in statistical data science, statistical inference, machine learning, deep learning, and their applications in the social science and sports contexts.
 
-As of now, I am anticipating to conclude my undergraduate career on December 2023, and I am looking forward to pursue graduate studies in the field of statistics, data science, and/or machine learning!
+As of now, I am anticipating concluding my undergraduate career on December 2023, and I am looking forward to pursuing graduate studies in the field of statistics, data science, and/or machine learning!
 
 
 News
 ======
 
 **October 2022**
+
 I present at [Carnegie Mellon Sports Analytics Conference 2022](https://www.stat.cmu.edu/cmsac/conference/2022/)!
 
+<br />
+
 **May 2022**
-I will be participating [Summer Undergraduate Research Experience in Statistics](http://summer.stat.cmu.edu/) in Department of Statistics & Data Science at Carnegie Mellon University!
 
+I will be participating [Summer Undergraduate Research Experience in Statistics](http://summer.stat.cmu.edu/) at Carnegie Mellon University Department of Statistics & Data Science this summer!
 
+<br />
 
 
 A data-driven personal website
