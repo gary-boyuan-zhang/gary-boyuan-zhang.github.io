@@ -273,9 +273,12 @@ Simpler models might improve prediction accuracy as it would eliminate uninforma
 
 ## Ridge Regression
 
-In Ordinary Least Squares, our objective is to minimize the loss function $||X^T\vec{w} - Y||^2$ , and we've derived the solution, which is $\vec{w} = (XX^T)^{-1}XY$.
+In Ordinary Least Squares, our objective is to minimize the loss function $||X^T\vec{w} - Y||^2$, 
+and we've derived the solution, which is $\vec{w} = (XX^T)^{-1}XY$.
 
-In Ridge Regression, since we want to control for the complexity of the model, we are introducing a shrinkage penalty $\lambda \geq 0$ , such that we are ensuring the $L_2$ norm of the weight vector $||\vec{w}||^2 \leq c^2$ is less than some constant threshold $c$.
+In Ridge Regression, since we want to control for the complexity of the model, we are introducing a shrinkage penalty $\lambda \geq 0$, 
+such that we are ensuring the $L_2$ norm of the weight vector $||\vec{w}||^2 \leq c^2$
+is less than some constant threshold $c$.
 
 With this penalization term being added, we could rewrite the loss function in the Ridge Regression, also known as $L_2$ regularization loss, as 
 
