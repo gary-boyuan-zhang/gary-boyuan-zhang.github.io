@@ -65,13 +65,22 @@ Therefore, we have derived the solution to the objective of the Ordinary Least S
 
 Previously, we've derived the solution to the objective function of the OLS under the assumption that there's a linear relationship between features and labels. However, this assumption might not be useful in realistic. So what if we want to model some non-linear relationship between the features and labels?
 
-For example, suppose we have some input data $X$ and label $Y$, where the relationship between each observation $(\vec{x_i}, y_i)$ is defined by $$y_i = w_1x_{i, 1} + w_2(x_{i, 2})^2 + w_3(x_{i, 3})^3 + \cdots + w_p(x_{i, p})^p$$
+For example, suppose we have some input data $X$ and label $Y$, where the relationship between each observation $(\vec{x_i}, y_i)$ is defined by 
+
+$$y_i = w_1x_{i, 1} + w_2(x_{i, 2})^2 + w_3(x_{i, 3})^3 + \cdots + w_p(x_{i, p})^p$$
+
 
 Noticed that previously under the linear relationship assumption, we could model $y_i = \vec{w} \vec{x_i}$ where $\vec{w} = (w_1, w_2, \dots, w_p)$ and $\vec{x_i} = (x_{i, 1}, x_{i, 2}, \dots , x_{i, p})$. However, obviously, the relationship is no longer linear now, but instead is polynomial. 
 
-For this particular example, we could consider to define a new variable $$\vec{z_i} = [x_{i, 1}, (x_{i, 2})^2, (x_{i, 3})^3, \dots , (x_{i, p})^p]$$
+For this particular example, we could consider to define a new variable 
 
-Then we could model the linear relationship between $z_i$ and $y_i$ as $$y_i = \vec{w}\vec{z_i}$$
+$$\vec{z_i} = [x_{i, 1}, (x_{i, 2})^2, (x_{i, 3})^3, \dots , (x_{i, p})^p]$$
+
+
+Then we could model the linear relationship between $z_i$ and $y_i$ as 
+
+$$y_i = \vec{w}\vec{z_i}$$
+
 
 In fact, in general, we could always model any non-linear relationship between data $X$ and label $Y$ by first transforming the data $X = (\vec{x_1}, \vec{x_2}, \dots, \vec{x_p})$ into some projection $Z = (\vec{z_1}, \vec{z_2}, \dots, \vec{z_p})$ via some function $f_i$ such that $\vec{z_i} = f_i(\vec{x_i})$ for every feature $i$. We could then model a linear relationship between the propjection $Z$ and label $Y$ as $Y = Z^T \vec{w}$, and estimate the weight vector $\vec{w}$ by implementing the OLS as described in the previous section.
 
@@ -187,7 +196,10 @@ We are going to address this question from two perspectives: Bias and Variance.
 
 ## Bias
 
-Recall that bias is defined by $$\text{Bias}= E[g(x)]−f(x)$$
+Recall that bias is defined by 
+
+$$\text{Bias}= E[g(x)]−f(x)$$
+
 
 Bias describes how much the average estimator fit $E[g(x)]$ over many datasets deviates from the value of the actual underlying target function $f(x)$.
 
@@ -203,7 +215,9 @@ Looking at these three plots above, notice that
 
 ## Variance
 
-Recall that variance is defined by $$\text{Variance}=E[(g(x) −E[g(x)])^2]$$
+Recall that variance is defined by 
+
+$$\text{Variance}=E[(g(x) −E[g(x)])^2]$$
 
 
 Variance is the expected (i.e. average) squared difference between any single dataset-dependent estimate of $g(x)$ and the average value of $g(x)$ estimated over all datasets.
@@ -232,6 +246,7 @@ Overfitting usually occurs when a model has high variance.
 ## Balance
 
 Recall that previously we've introduced the loss in OLS as the Residual Sum of Squares in the model. However, if we take devide the Residual Sum of Squares (RSS) in the model by the degree of freedom(number of samples in the data substract number of features in the model), we would get another popular metrics to evaluate model performance, which is Mean Squared Error (MSE)
+
 $$MSE = \frac{1}{n} \sum_i^n{ \left( \vec{w} \cdot \vec{x_i} - y_i \right)^2 }$$
 
 With simple mathematical derivation, we could observe that
@@ -262,9 +277,15 @@ In Ordinary Least Squares, our objective is to minimize the loss function $||X^T
 
 In Ridge Regression, since we want to control for the complexity of the model, we are introducing a shrinkage penalty $\lambda \geq 0$, such that we are ensuring the $L_2$ norm of the weight vector $||\vec{w}||^2 \leq c^2$ is less than some constant threshold $c$.
 
-With this penalization term being added, we could rewrite the loss function in the Ridge Regression, also known as $L_2$ regularization loss, as $$Loss_{L_2} = ||X^T\vec{w} - Y||^2 + \lambda ||\vec{w}||^2$$
+With this penalization term being added, we could rewrite the loss function in the Ridge Regression, also known as $L_2$ regularization loss, as 
 
-Similary to OLS, our objective here is to minimize the loss function. By applying similar derivation as in OLS, we could get the solution $$\vec{w} = (XX^T + \lambda I)^{-1}XY$$
+$$Loss_{L_2} = ||X^T\vec{w} - Y||^2 + \lambda ||\vec{w}||^2$$
+
+
+Similary to OLS, our objective here is to minimize the loss function. By applying similar derivation as in OLS, we could get the solution 
+
+$$\vec{w} = (XX^T + \lambda I)^{-1}XY$$
+
 
 Notice that different from OLS, here we've introduced $\lambda$ which is a hyperparameter we have to tune and choose for. As $\lambda$ increases, the penalization becomes harsher, and the flexibility of models decreases, which would increase the bias of the model, but decreases the variance of the model.
 To tune the hyperparameter $\lambda$, we could utilize techniques such as cross-validation. 
@@ -283,7 +304,10 @@ Different from Ridge Regression, Lasso Regression implements the $L_1$ regulariz
 
 In Lasso Regression, we are ensuring the $L_1$ norm of the weight vector $||\vec{w}||1 \leq c$ is less than some constant threshold $c$.
 
-With this penalization term being added, we could rewrite the loss function in the Lasso Regression, also known as $L_1$ regularization loss, as $$Loss_{L_1} = ||X^T\vec{w} - Y||^2 + \lambda ||\vec{w}||_1$$
+With this penalization term being added, we could rewrite the loss function in the Lasso Regression, also known as $L_1$ regularization loss, as 
+
+$$Loss_{L_1} = ||X^T\vec{w} - Y||^2 + \lambda ||\vec{w}||_1$$
+
 
 Similar to Ridge Regression, we're introducing $\lambda$ which is a hyperparameter we have to tune and choose for. As $\lambda$ increases, the penalization becomes harsher, and the flexibility of models decreases, which would increase the bias of the model, but decreases the variance of the model.
 To tune the hyperparameter $\lambda$, we could utilize techniques such as cross-validation. 
