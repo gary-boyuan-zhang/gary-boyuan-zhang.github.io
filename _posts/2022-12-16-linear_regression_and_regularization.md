@@ -9,8 +9,6 @@ tags:
 ---
 
 
-- Author: Boyuan Zhang (bz2058)
-
 # Recap: Linear Regression
 
 ## Problem
@@ -25,7 +23,8 @@ However, things are always not so simple, and we more usually couldn't find such
 
 With that being said and acknowledging the fact that noise being existed in the input data, we could then revise our goal to become that finding some weight vector $\vec{w}$ such that the difference between $\vec{w} \cdot \vec{x_i}$ and $y_i$ could be as small as possible for all the observation overall. For a single observation(data point), we want to minimize the difference between $\vec{w} \cdot \vec{x_i}$ and $y_i$ which is just $\vec{w} \cdot \vec{x_i} - y_i$. For all the observations within the dataset, we could consider to sum up the difference $\vec{w} \cdot \vec{x_i}$ and $y_i$ for each single observation, which is just $\sum_i^n{ \left( \vec{w} \cdot \vec{x_i} - y_i \right) }$. However, since some of the difference might be positive and some of the difference might be negative, those positive difference and negative difference would be cancel out when summing together. Thus, in order to avoid the difference being cancel out, we could consider to sum the squared of the difference instead, which is just $$\sum_i^n{ \left( \vec{w} \cdot \vec{x_i} - y_i \right)^2 }$$
 
-Therefore, **our goal in linear regression is just to minize this sum of squared difference, which is known as Sum of Squared Residuals(SSR) or Residual Sum of Squares(RSS)**. And we're calling this as the Loss of our regression model. Just to rewrite the previous formula in terms of matrix multiplication, we have defined the loss of the linear regression. And our objective is just to find the weight vector $\vec{w}$ that minimize the loss. This method we're refering to is known as Ordinary Least Squares(OLS) $$Loss = ||X^T\vec{w} - Y||^2$$
+Therefore, **our goal in linear regression is just to minize this sum of squared difference, which is known as Sum of Squared Residuals(SSR) or Residual Sum of Squares(RSS)**. And we're calling this as the Loss of our regression model. Just to rewrite the previous formula in terms of matrix multiplication, we have defined the loss of the linear regression. And our objective is just to find the weight vector $\vec{w}$ that minimize the loss. This method we're refering to is known as Ordinary Least Squares(OLS) 
+$\begin{align*} Loss = ||X^T\vec{w} - Y||^2 \end{align*}$
 
 ## Solution
 
@@ -401,6 +400,9 @@ for alpha in alpha_values:
     Alpha: 1e-07 , MSE: 3171.546579685444
     Alpha: 1e-10 , MSE: 3171.547252036498
 
+<br />
+<br />
+<br />
 
 # References
 
