@@ -1,6 +1,6 @@
 ---
 title: "Soccer Player Ratings"
-excerpt: "A Regularized Adjusted Expected Goal Plus-Minus model(RAxGPM) in soccer to evaluate players’ performance
+excerpt: "A Regularized Adjusted Expected Goal Plus-Minus model(RAxGPM) in soccer to evaluate players’ performance.
 <br/>
 <img src='https://drive.google.com/uc?id=1wAiQe2sBHqfwyYIi0B2ezmIDhn-4usFG'>"
 collection: portfolio
