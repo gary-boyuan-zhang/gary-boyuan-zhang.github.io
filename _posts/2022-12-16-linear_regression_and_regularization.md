@@ -8,6 +8,7 @@ tags:
   - Regularization
 ---
 
+Linear Regression, Non-linear Relationship, Bias-Variance Tradeoff, Regularization
 
 # Recap: Linear Regression
 
