@@ -1,7 +1,7 @@
 ---
 title: 'Linear Regression and Regularization'
 date: 2022-12-16
-permalink: /posts/2022/linear_regression_and_regularization/
+permalink: /posts/2022/12/linear_regression_and_regularization/
 tags:
   - Machine Learning
   - Linear Regression
