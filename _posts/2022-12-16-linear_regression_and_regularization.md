@@ -28,7 +28,7 @@ $$\sum_i^n{ \left( \vec{w} \cdot \vec{x_i} - y_i \right)^2 }$$
 
 Therefore, **our goal in linear regression is just to minize this sum of squared difference, which is known as Sum of Squared Residuals(SSR) or Residual Sum of Squares(RSS)**. And we're calling this as the Loss of our regression model. Just to rewrite the previous formula in terms of matrix multiplication, we have defined the loss of the linear regression. And our objective is just to find the weight vector $\vec{w}$ that minimize the loss. This method we're refering to is known as Ordinary Least Squares(OLS) 
 
-$$\begin{align*} Loss = ||X^T\vec{w} - Y||^2 \end{align*}$$
+$$Loss = ||X^T\vec{w} - Y||^2$$
 
 
 ## Solution
@@ -273,9 +273,9 @@ Simpler models might improve prediction accuracy as it would eliminate uninforma
 
 ## Ridge Regression
 
-In Ordinary Least Squares, our objective is to minimize the loss function $||X^T\vec{w} - Y||^2$, and we've derived the solution, which is $\vec{w} = (XX^T)^{-1}XY$.
+In Ordinary Least Squares, our objective is to minimize the loss function $||X^T\vec{w} - Y||^2$ , and we've derived the solution, which is $\vec{w} = (XX^T)^{-1}XY$.
 
-In Ridge Regression, since we want to control for the complexity of the model, we are introducing a shrinkage penalty $\lambda \geq 0$, such that we are ensuring the $L_2$ norm of the weight vector $||\vec{w}||^2 \leq c^2$ is less than some constant threshold $c$.
+In Ridge Regression, since we want to control for the complexity of the model, we are introducing a shrinkage penalty $\lambda \geq 0$ , such that we are ensuring the $L_2$ norm of the weight vector $||\vec{w}||^2 \leq c^2$ is less than some constant threshold $c$.
 
 With this penalization term being added, we could rewrite the loss function in the Ridge Regression, also known as $L_2$ regularization loss, as 
 
@@ -302,7 +302,8 @@ Ridge Regression has effectively control the weight from being deviate too much 
 
 Different from Ridge Regression, Lasso Regression implements the $L_1$ regularization term into the loss function, to not only control the weight from being deviate too much from 0, but could even eliminate uninformative variables by shrinking their weight eventually becomes 0. Thus, Lasso Regression could control for the complexity of the model more efficiently, especially when we may believe there is a sparse solution of our task.
 
-In Lasso Regression, we are ensuring the $L_1$ norm of the weight vector $||\vec{w}||1 \leq c$ is less than some constant threshold $c$.
+In Lasso Regression, we are ensuring the $L_1$ norm of the weight vector $||\vec{w}||1 \leq c$ 
+is less than some constant threshold $c$.
 
 With this penalization term being added, we could rewrite the loss function in the Lasso Regression, also known as $L_1$ regularization loss, as 
 
