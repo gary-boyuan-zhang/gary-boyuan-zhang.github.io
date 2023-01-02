@@ -17,8 +17,6 @@ As of now, I anticipate concluding my undergraduate study on December 2023, and 
 News
 ------
 
-<br />
-
 **October 2022**: 
 I present at [Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/2022/) 2022!
 
