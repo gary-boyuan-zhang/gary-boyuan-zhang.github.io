@@ -1,6 +1,6 @@
 ---
 title: "Lip Reading Word Classification"
-excerpt: "A CNN-LSTM based classifier model that takes a sequence of video frames as input and identify the word being uttered from the speaker.<br/>
+excerpt: "A CNN-LSTM based classifier model that takes a sequence of video frames as input and identifies the speaker's words.<br/>
 <img src='https://drive.google.com/uc?id=1_JZnC30YfeSX3Z-kTsD2EY0jNAvA6bZh'>"
 collection: portfolio
 ---
