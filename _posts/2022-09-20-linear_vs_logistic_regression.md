@@ -32,7 +32,8 @@ $$\hat{\beta} = (X^TX)^{-1}X^TY$$
 
 # Logistic Regression
 
-However, in logistic regression, the response variable $Y$ is a discrete random variable with possible values 0 and 1. So $Y|x \sim Ber(p = E[Y|x])$
+However, in logistic regression, the response variable $Y$ is a discrete random variable with possible values 0 and 1. 
+So $Y|x \sim Ber(p = E[Y|x])$
 
 By calculating the log-odds ratio, the non-linear relationship between $X$ and $Y$ is defined by:
 
