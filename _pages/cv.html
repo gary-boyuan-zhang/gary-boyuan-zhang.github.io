@@ -7,9 +7,26 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://drive.google.com/file/d/1a76Oq_u4a0w3osXznp7hOWo_fiv1ODy9/view?usp=sharing">
+{% include base_path %}
+
+<embed src="CV - Boyuan Zhang - 1_3_2023.pdf">
 
 <!---
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+<embed src="https://drive.google.com/file/d/1a76Oq_u4a0w3osXznp7hOWo_fiv1ODy9/view?usp=sharing">
+
 
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://example.com/the.pdf" width="500" height="375">
 
