@@ -7,6 +7,12 @@ redirect_from:
   - /resume
 ---
 
+<embed src="https://drive.google.com/file/d/1a76Oq_u4a0w3osXznp7hOWo_fiv1ODy9/view?usp=sharing">
+
+<!---
+
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://example.com/the.pdf" width="500" height="375">
+
 {% include base_path %}
 
 Education
@@ -57,3 +63,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->
