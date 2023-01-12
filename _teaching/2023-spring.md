@@ -13,18 +13,17 @@ location: "New York, NY"
 
 ## In-class Tutoring
 
-TBA
+
+[CSCI-UA.0002-004](https://cs.nyu.edu/courses/spring23/CSCI-UA.0002-004/) with Prof. [Mihir Patil](https://www.mihirpatil.com/): 
+Monday / Wednesday 09:30 - 10:45 at [CIWW 202](https://www.google.com/maps/place/Warren+Weaver+Hall+(CIWW)/@40.7286922,-73.9978364,17z/data=!4m10!1m2!2m1!1sciww+202!3m6!1s0x89c259906db143b9:0xed44ab7a17b0816f!8m2!3d40.7286882!4d-73.9956477!15sCghjaXd3IDIwMpIBBnNjaG9vbOABAA!16s%2Fg%2F11c54n5s8f)
 
 <!---
-[CSCI-UA.0002-006](https://cs.nyu.edu/courses/fall22/CSCI-UA.0002-006/) with Prof. [David Prager](https://www.sps.nyu.edu/homepage/academics/faculty-directory/20453-david-a-prager.html): 
-Monday/Wednesday 12:30-13:45 at [Kimmel Center 803](https://goo.gl/maps/dBMHcEi4cVZ7sbau7)
-
 [CSCI-UA.0002-010](https://cs.nyu.edu/courses/fall22/CSCI-UA.0002-010/) with Prof. [Khye Borg Liew](https://www.linkedin.com/in/khye-borg/): Tuesday/Thursday 15:30-16:45 ONLINE
 -->
 
 ## Drop-in Tutoring
 
-TBA
+Starting on Monday January 30th, 2023
 
 <!---
 Thursday 17:00-21:00 at [Warren Weaver Hall 202](https://maps.google.com/maps?hl=en&q=Warren%20Weaver%20Hall%20room%20202)
