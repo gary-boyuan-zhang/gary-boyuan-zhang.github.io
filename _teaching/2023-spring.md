@@ -23,14 +23,9 @@ Monday / Wednesday 09:30 - 10:45 at [CIWW 202](https://www.google.com/maps/place
 
 ## Drop-in Tutoring
 
-Starting on Monday January 30th, 2023
+Monday 21:00-21:30 on [Zoom](https://nyu.zoom.us/j/96138221304)
 
-<!---
-Thursday 17:00-21:00 at [Warren Weaver Hall 202](https://maps.google.com/maps?hl=en&q=Warren%20Weaver%20Hall%20room%20202)
+Tuesday 21:00-22:30 on [Zoom](https://nyu.zoom.us/j/96138221304)
 
-Friday 21:15-22:15 at [Zoom](https://nyu.zoom.us/j/96138221304)
+Wednesday 21:00-22:30 on [Zoom](https://nyu.zoom.us/j/96138221304)
 
-Saturday 18:15-22:15 at [Zoom](https://nyu.zoom.us/j/96138221304)
-
-Sunday 19:15-22:15 at [Zoom](https://nyu.zoom.us/j/96138221304)
--->
