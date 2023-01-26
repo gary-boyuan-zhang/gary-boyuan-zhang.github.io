@@ -1,9 +1,8 @@
 ---
 title: MATH-UA 120 Discrete Mathmetics
-permalink: https://gary-boyuan-zhang.github.io/courses/math_ua_120
+permalink: /courses/math_ua_120
 term: Spring 2022
 instructor: Dr. Hasam Oveys
-
 ---
 
 ## Description
@@ -24,4 +23,3 @@ At the semester's conclusion, the successful student will be able to:
 ## Topics
 
 Sets, algorithms, induction. Combinatorics. Graphs and trees. Combinatorial circuits. Logic and Boolean algebra.
-
