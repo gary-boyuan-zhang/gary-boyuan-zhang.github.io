@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+I am fortunate enough to have the opportunities to take the following courses with outstanding professors at NYU.
 
 <br />
 
@@ -19,8 +20,8 @@ Statistical/Machine Learning & Deep Learning:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theory of Deep Learning 
-&nbsp;&nbsp;&nbsp; (Graduate/PhD level)
+&nbsp;&nbsp;&nbsp; Theory of Deep Learning 
+&nbsp;&nbsp; (Graduate/PhD level)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DS-GA 3001 *Special Topics in Data Science:*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,7 +29,7 @@ Statistical/Machine Learning & Deep Learning:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp; Modern Topics in Statistical Learning Theory 
-&nbsp;&nbsp;&nbsp; (Graduate/PhD level)
+&nbsp;&nbsp; (Graduate/PhD level)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DS-UA 301 *Advanced Topics in Data Science:*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,14 +42,6 @@ Statistical/Machine Learning & Deep Learning:
 
 Probability & Statistics
 ------
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DS-GA 3001 *Special Topics in Data Science:*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MATH-GA 2840 *Advanced Topics In Applied Math:*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp; Probability and Statistics 2 (Graduate/PhD level)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DS-GA 3001 *Special Topics in Data Science* / MATH-GA 2840 *Advanced Topics In Applied Math:*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
