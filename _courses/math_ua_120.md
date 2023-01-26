@@ -1,6 +1,6 @@
 ---
-title: "MATH-UA 120 Discrete Mathmetics"
-permalink: /courses/math_ua_120
+title: MATH-UA 120 Discrete Mathmetics
+permalink: https://gary-boyuan-zhang.github.io/courses/math_ua_120
 term: Spring 2022
 instructor: Dr. Hasam Oveys
 
