@@ -1,4 +1,17 @@
 ---
+title: "MATH-UA 120 Discrete Mathmetics"
+collection: teaching
+type: "Tutor"
+permalink: /courses/math_ua_120
+venue: "New York University, Computer Science"
+semester: Fall 2022
+date: 2022-09-01
+location: "New York, NY"
+---
+
+<br />
+
+---
 title: MATH-UA 120 Discrete Mathmetics
 permalink: /courses/math_ua_120
 term: Spring 2022
