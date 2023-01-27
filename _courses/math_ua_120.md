@@ -5,7 +5,8 @@ permalink: /courses/math_ua_120
 ---
 
 **Term:** Spring 2022  
-<ins>Instructor:</ins> Dr. Hasam Oveys
+**Instructor:** Dr. Hasam Oveys  
+**Level:** Undergraduate
 
 ## Topics
 
