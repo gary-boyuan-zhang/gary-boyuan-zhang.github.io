@@ -1,22 +1,6 @@
 ---
 title: "MATH-UA 120 Discrete Mathmetics"
-collection: teaching
-type: "Tutor"
-permalink: /coursework/math_ua_120
-venue: "New York University, Computer Science"
-semester: Fall 2022
-date: 2022-09-01
-location: "New York, NY"
----
-
-<br />
-
-TBA
-
-<!---
-
----
-title: MATH-UA 120 Discrete Mathmetics
+collection: courses
 permalink: /courses/math_ua_120
 term: Spring 2022
 instructor: Dr. Hasam Oveys
@@ -41,5 +25,3 @@ At the semester's conclusion, the successful student will be able to:
 
 Sets, algorithms, induction. Combinatorics. Graphs and trees. Combinatorial circuits. Logic and Boolean algebra.
 
-
---->
