@@ -2,9 +2,14 @@
 title: "MATH-UA 120 Discrete Mathmetics"
 collection: courses
 permalink: /courses/math_ua_120
-term: Spring 2022
-instructor: Dr. Hasam Oveys
 ---
+
+**Term:** Spring 2022  
+<ins>Instructor:</ins> Dr. Hasam Oveys
+
+## Topics
+
+Sets, algorithms, induction. Combinatorics. Graphs and trees. Combinatorial circuits. Logic and Boolean algebra.
 
 ## Description
 
@@ -19,9 +24,4 @@ At the semester's conclusion, the successful student will be able to:
   - group theory
   - number theory
   - graph theory
-
-
-## Topics
-
-Sets, algorithms, induction. Combinatorics. Graphs and trees. Combinatorial circuits. Logic and Boolean algebra.
 
