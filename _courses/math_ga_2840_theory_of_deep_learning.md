@@ -1,5 +1,5 @@
 ---
-title: "MATH-GA 2840 Theory Of Deep Learning"
+title: "MATH-GA 2840 Theory of Deep Learning"
 collection: courses
 permalink: /courses/math_ga_2840_theory_of_deep_learning
 ---
