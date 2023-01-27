@@ -2,7 +2,7 @@
 title: "CSCI-UA 0002 Introduction to Computer Programming"
 collection: teaching
 type: "Tutor"
-permalink: /teaching/2022-fall
+permalink: /courses/sample
 venue: "New York University, Computer Science"
 semester: Fall 2022
 date: 2022-09-01
