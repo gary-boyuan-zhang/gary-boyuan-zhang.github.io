@@ -1,8 +1,11 @@
 ---
-title: "MATH-GA 2840 Advanced Topics In Applied Math: Theory Of Deep Learning"
+title: "MATH-GA 2840 Theory Of Deep Learning"
 collection: courses
 permalink: /courses/math_ga_2840_theory_of_deep_learning
 ---
+
+MATH-GA 2840 Advanced Topics in Applied Math:  
+Theory of Deep Learning
 
 **Term:** Spring 2023  
 **Instructor:** Dr. Arthur Jacot-Guillarmod  
@@ -15,10 +18,9 @@ Generalization; Curse of dimensionality;
 Leaving the NTK regime;
 Active regimes of diagonal linear networks;
 Fully-connected linear networks;
-Shallow networks;convex reformulation;
+Shallow networks; convex reformulation;
 Mean-field limit;
 Deep Networks;
-
 
 
 ## Description
