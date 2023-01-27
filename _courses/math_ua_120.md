@@ -11,6 +11,10 @@ location: "New York, NY"
 
 <br />
 
+TBA
+
+<!---
+
 ---
 title: MATH-UA 120 Discrete Mathmetics
 permalink: /courses/math_ua_120
@@ -36,3 +40,6 @@ At the semester's conclusion, the successful student will be able to:
 ## Topics
 
 Sets, algorithms, induction. Combinatorics. Graphs and trees. Combinatorial circuits. Logic and Boolean algebra.
+
+
+--->
