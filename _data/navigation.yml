@@ -12,6 +12,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
         
+  - title: "Coursework"
+    url: /courses/  
+       
   - title: "Posts"
     url: /year-archive/
     
