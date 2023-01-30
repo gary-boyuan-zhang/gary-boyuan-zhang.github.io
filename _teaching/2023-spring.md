@@ -23,9 +23,9 @@ Monday / Wednesday 09:30 - 10:45 at [CIWW 202](https://www.google.com/maps/place
 
 ## Drop-in Tutoring
 
-Monday 21:00-21:30 on [Zoom](https://nyu.zoom.us/j/96138221304)
+Monday 21:00-21:30 on [Zoom](https://docs.google.com/forms/d/e/1FAIpQLSdi9V5vmB0Ti2Ti5jtj-u6-U1bWucVj4oKpeHDA2Kg_iWLN-g/viewform?usp=sf_link)
 
-Tuesday 21:00-22:30 on [Zoom](https://nyu.zoom.us/j/96138221304)
+Tuesday 21:00-22:30 on [Zoom](https://docs.google.com/forms/d/e/1FAIpQLSdi9V5vmB0Ti2Ti5jtj-u6-U1bWucVj4oKpeHDA2Kg_iWLN-g/viewform?usp=sf_link)
 
-Wednesday 21:00-22:30 on [Zoom](https://nyu.zoom.us/j/96138221304)
+Wednesday 21:00-22:30 on [Zoom](https://docs.google.com/forms/d/e/1FAIpQLSdi9V5vmB0Ti2Ti5jtj-u6-U1bWucVj4oKpeHDA2Kg_iWLN-g/viewform?usp=sf_link)
 
