@@ -40,20 +40,78 @@ The assessment of this studys data was done by physicians blinded to both the as
 
 The table below gives the counts, $n_{zty}$, of patients assigned $Z_i = z$ and with physiotherapy-taking status $T^{obs} = t$ and outcome $Y^{obs} = y$.
 
-<center>
-  
-| | $Z$ | $T^{obs}$| $Y^{obs}$ | n |
-|:----:|:----:|:----:|:----:| ----:|
-| 0    | 0    | 0    | 0    | 185  |
-| 1    | 0    | 0    | 1    | 123  |
-| 2    | 0    | 1    | 0    | 9    |
-| 3    | 0    | 1    | 1    | 41   |
-| 4    | 1    | 0    | 0    | 37   |
-| 5    | 1    | 0    | 1    | 20   |
-| 6    | 1    | 1    | 0    | 26   |
-| 7    | 1    | 1    | 1    | 96   |
 
-</center>
+<div align="center">
+  <table border="5" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>$Z$</th>
+      <th>$T^{obs}$</th>
+      <th>$Y^{obs}$</th>
+      <th>$n$</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>185</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>123</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>41</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>37</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>26</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>96</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 We could manually construct the dataframe in python according to the above table.
 
@@ -151,7 +209,7 @@ df.sample(10)
 
 # 2. The Intention-to-treat (ITT) Effect
 
-First, we estimate the intention-to-treat (ITT) effect of offering the discount on the improvement of recovery, $E[Y (Z = 1)] − E[Y (Z = 0)]$, using a difference-in-means estimator. We also estimate the standard error and the asymptotic 95% confidence interval. 
+First, we estimate the intention-to-treat (ITT) effect of offering the discount on the improvement of recovery, $$E[Y (Z = 1)] − E[Y (Z = 0)]$$, using a difference-in-means estimator. We also estimate the standard error and the asymptotic 95% confidence interval. 
 
 
 
