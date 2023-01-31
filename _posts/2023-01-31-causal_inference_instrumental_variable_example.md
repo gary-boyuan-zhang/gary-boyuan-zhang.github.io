@@ -22,11 +22,11 @@ import numpy as np
 import pandas as pd
 ```
 
-# 1. Introduction
+## 1. Introduction
 
 Patients who get surgery, for example for orthopaedic reasons, are often advised by the doctors, subsequently to surgery, to get physiotherapy, that is, a series of exercises to help rehabilitation and more complete recovery. However, the costs of physiotherapy may often deter patients from following it. **It is therefore important to try to show the potential benefits of physiotherapy, so that more patients can become convinced to follow it.**
 
-## 1.1 Setting
+### 1.1 Setting
 
 In the period of 4 years, three cooperating hospitals randomly assigned each of
 the 537 eligible patients, who had gone through an orthopeadic operation, in one
@@ -36,7 +36,7 @@ For each patient, the recorded variables, in addition to assignment $Z_i$ , are:
 
 The assessment of this studys data was done by physicians blinded to both the assignment $Z_i$ and the taking (or not) of physiotherapy by the patient.
 
-## 1.2 Data
+### 1.2 Data
 
 The table below gives the counts, $n_{zty}$, of patients assigned $Z_i = z$ and with physiotherapy-taking status $T^{obs} = t$ and outcome $Y^{obs} = y$.
 
@@ -207,9 +207,13 @@ df.sample(10)
 
 <br />
 
-# 2. The Intention-to-treat (ITT) Effect
+## 2. The Intention-to-treat (ITT) Effect
 
-First, we estimate the intention-to-treat (ITT) effect of offering the discount on the improvement of recovery, $$E[Y (Z = 1)] − E[Y (Z = 0)]$$, using a difference-in-means estimator. We also estimate the standard error and the asymptotic 95% confidence interval. 
+First, we estimate the intention-to-treat (ITT) effect of offering the discount on the improvement of recovery, 
+
+$$ E[Y (Z = 1)] − E[Y (Z = 0)] $$
+
+, using a difference-in-means estimator. We also estimate the standard error and the asymptotic 95% confidence interval. 
 
 
 
@@ -241,7 +245,7 @@ Notice that the ITT reflects a prescription of the treatment, but then the unit 
 
 <br />
 
-# 3. Four Possible Strata
+## 3. Four Possible Strata
 
 Thus, according to the instrument and the treatment values, we could define four possible strata in our setting as follows:
 
@@ -257,11 +261,11 @@ In the following analysis, we will focus on estimating the Local Average Treatme
 
 <br />
 
-# 4. Checking Assumptions
+## 4. Checking Assumptions
 
 However, in order to non-parametrically identify the LATE, we need to check the following assumptions for treatment assignment $Z$ to be an instrument.
 
-## 4.1 Relevance
+### 4.1 Relevance
 
 $$ \forall i, E[T_i(1)] \neq E[T_i(0)] $$
 
@@ -306,7 +310,7 @@ df.corr()
 
 
 
-## 4.2 Exclusion Restriction
+### 4.2 Exclusion Restriction
 
 $$ \forall i, \forall t, Y_i(Z_i = 1, T_i = t) = Y_i(Z_i = 0, T_i = t) $$
 
@@ -354,13 +358,13 @@ print('95% confidence interval:', ci95_c)
     95% confidence interval: [-0.17845571034468452, 0.08150879760829807]
 
 
-## 4.3 Instrumental Unconfoundeness
+### 4.3 Instrumental Unconfoundeness
 
 $$ \forall i, Z_i \perp Y_i(0), Y_i(1), T_i(0), T_i(1) $$
 
 No hidden confounder of the treatment assignment $Z$ and the outcome. This is plausible in our setting because the treatment assignment is randomized.
 
-## 4.4 Monotonicity
+### 4.4 Monotonicity
 
 $$\forall i, T_i(Z = 1) \geq T_i(Z = 0)$$
 
@@ -368,7 +372,7 @@ The treatment assignment $Z$ does not dissuade to get the potential treatment $T
 
 <br />
 
-# 5. Local Average Treatment Effect (LATE)
+## 5. Local Average Treatment Effect (LATE)
 
 Under assumptions discussed previously, we could estimate the LATE among the **Compliers** strata with the two stage least square estimator. Using the `IV2SLS` function in the `linearmodels` package, we also provide the standard error and a 95% confidence interval of the estimate.
 
@@ -434,7 +438,7 @@ IV2SLS(dependent = df.Y_obs,
 <br />
 
 
-# 6. Results
+## 6. Results
 
 According to the results above, we've obtained a LATE estimate of 0.3505 with standard error 0.0782 and a 95% confidence interval from 0.1972 to 0.5039.
 
@@ -442,7 +446,7 @@ Notice that since our confidence interval does not include 0, and the p-value ob
 
 <br />
 
-# 7. Discussion
+## 7. Discussion
 
 From a clinical viewpoint, the LATE estimation, found statistically significant indicates that physiotherapy is efficient to improve recovery among compliers. The ITT tells a slightly different story: the fee reduction to incentivize the patient adherence to the physiotherapy treatment enhances the recovery quality. Overall, encouraging patients to attend physiotherapy, through reduced fee (efficient) or other ways (to test) seems like a promising health policy. Improved recovery could even save future health costs.
 
@@ -464,7 +468,7 @@ Thus, this representation of the effectiveness on our encouragement provides us 
 <br />
 <br />
 
-# 8. Reference
+## 8. Reference
 
 - J. Abécassis. (2022). DS-UA 9201 Causal Inference, Fall 2022. NYU Brightspace. https://brightspace.nyu.edu/d2l/home/225088
 
