@@ -40,7 +40,7 @@ The assessment of this studys data was done by physicians blinded to both the as
 
 The table below gives the counts, $n_{zty}$, of patients assigned $Z_i = z$ and with physiotherapy-taking status $T^{obs} = t$ and outcome $Y^{obs} = y$.
 
-<div align="center">
+<center>
   
 | | $Z$ | $T^{obs}$| $Y^{obs}$ | n |
 |:----:|:----:|:----:|:----:| ----:|
@@ -53,7 +53,7 @@ The table below gives the counts, $n_{zty}$, of patients assigned $Z_i = z$ and 
 | 6    | 1    | 1    | 0    | 26   |
 | 7    | 1    | 1    | 1    | 96   |
 
-</div>
+</center>
 
 We could manually construct the dataframe in python according to the above table.
 
