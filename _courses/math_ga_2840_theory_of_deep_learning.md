@@ -9,7 +9,7 @@ Theory of Deep Learning
 
 **Term:** Spring 2023  
 **Instructor:** Dr. Arthur Jacot-Guillarmod  
-**Level:** Graduate / PhD
+**Level:** PhD
 
 ## Topics
 
