@@ -19,7 +19,7 @@ Statistical/Machine Learning & Deep Learning:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp; [Theory of Deep Learning](https://gary-boyuan-zhang.github.io/courses/math_ga_2840_theory_of_deep_learning) 
-&nbsp;&nbsp; (Graduate/PhD level)
+&nbsp;&nbsp; (PhD level)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DS-GA 3001 *Special Topics in Data Science:*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
