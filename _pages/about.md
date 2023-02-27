@@ -17,6 +17,9 @@ As of now, I anticipate concluding my undergraduate study after December 2023, a
 News
 ------
 
+**February 2023**:
+I am excited to join the [Machine Learning for Good Laboratory](https://wp.nyu.edu/ml4good/) at NYU directed by [Dr. Daniel Neill](http://cs.nyu.edu/~neill) !
+
 **December 2022**:
 My submission on [Fingertips Position Estimation of a Robot Hand](https://gary-boyuan-zhang.github.io/portfolio/2022-12-Robot_Hand_Fingertips_Estimation/) project ranked 6/180+ in Intro to ML class!
 
