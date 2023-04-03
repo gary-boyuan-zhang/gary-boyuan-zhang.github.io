@@ -17,6 +17,11 @@ As of now, I anticipate concluding my undergraduate study after December 2023, a
 News
 ------
 
+**March 2023**:
+I will participate the [Quantitative Sciences Undergraduate Research Experience](https://www.mskcc.org/departments/epidemiology-biostatistics/quantitative-sciences-summer-undergraduate-research-experience-qsure) program at Department of Epidemiology and Biostatistics of Memorial Sloan Kettering Cancer Center this summer and will be advised by [Dr. Wesley Tansey](https://wesleytansey.com/) !
+
+I've decided to join Dr. Wesley Tansey's lab this summer, working on Bayesian Inference with application to cancer, as part of 
+
 **February 2023**:
 I am excited to join the [Machine Learning for Good Laboratory](https://wp.nyu.edu/ml4good/) at NYU directed by [Dr. Daniel Neill](http://cs.nyu.edu/~neill) !
 
