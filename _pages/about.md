@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Boyuan Zhang (张博源). I am a third-year undergraduate student at [New York University](https://www.nyu.edu/), joint majoring in Data Science and Computer Science and double minoring in Mathematics and Business Studies. I am passionate about transforming insight from data and broadly interested in statistical data science, statistical inference, machine learning, deep learning, and their applications to social science, public policy, public health, and sports. I am dedicated to pursuing a career in researching and transforming knowledge to apply data science to address real-world problems and support the development of the community and society.
+I am a third-year undergraduate student at [New York University](https://www.nyu.edu/), joint majoring in Data Science and Computer Science and double minoring in Mathematics and Business Studies. I am passionate about transforming insight from data and broadly interested in statistical data science, statistical inference, machine learning, deep learning, and their applications to social science, public policy, public health, and sports. I am dedicated to pursuing a career in researching and transforming knowledge to apply data science to address real-world problems and support the development of the community and society.
 
-As of now, I anticipate concluding my undergraduate study after December 2023, and I am looking forward to pursuing graduate studies in the field of statistics, data science, and machine learning starting in fall 2024!
+I am planning to conclude my undergraduate study on December 2023, and I will apply for graduate programs in statistics, data science, and machine learning starting in Fall 2024!
 
 <br />
 
