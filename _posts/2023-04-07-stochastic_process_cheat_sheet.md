@@ -1,5 +1,5 @@
 ---
-title: 'Stochastic Processes Cheat Sheet: Discrete and Continous-time Markov Chains'
+title: 'Stochastic Process Cheat Sheet: Discrete and Continous-time Markov Chains'
 date: 2023-04-07
 permalink: /posts/2023/04/stochastic_process_cheat_sheet/
 tags:
@@ -8,10 +8,11 @@ tags:
   - Random Process
 ---
 
-Discrete Markov Chain, Mover-Stayer Model, Continous-time Markov Chain, Poisson Process, Kolmogorov's Differential Equations
+Discrete-time Markov Chain, Mover-Stayer Model, Continous-time Markov Chain, Poisson Process, Kolmogorov's Differential Equations
 
+<br/>
 
-# Discrete Markov Chain
+# Discrete-time Markov Chain
 
 <img src = 'https://drive.google.com/uc?id=1JOMzLBchl1TgE9ksndimknyeoU_svsqV'>
 <img src = 'https://drive.google.com/uc?id=1ODNu2ASlQqoCx-GEiYpeAqaagll-zzzA'>
