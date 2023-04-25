@@ -9,9 +9,15 @@ date: 2023-05-22
 location: "New York, NY"
 ---
 
+[Course Website]()
+
+## Course Description
+
+Causal Inference provides students with the tools for understanding causation, i.e., the relationship between cause and effect. We will start with the situation in which you are able to design and implement the data gathering process, called the experiment. We will then define causation, identify preconditions required for A to cause B, show how to design perfect experiments, and discuss how to understand threats to the validity of less-than-perfect experiments. In this course, we will cover experimental design and then turn to those careful approaches, where we will consider such approaches as quasi-experiments, regression discontinuities, differences in differences, and contemporary advanced approaches.
 
 
 <!---
+
 [Common Course Syllabus](https://cs.nyu.edu/elearning/CSCI_UA_0002/common_syllabus.php)
 
 ## In-class Tutoring
