@@ -12,7 +12,6 @@ location: "New York, NY"
 
 
 <!---
-
 [Common Course Syllabus](https://cs.nyu.edu/elearning/CSCI_UA_0002/common_syllabus.php)
 
 ## In-class Tutoring
