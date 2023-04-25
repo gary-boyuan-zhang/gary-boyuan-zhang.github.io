@@ -1,15 +1,21 @@
 ---
-title: "CSCI-UA 0002 Introduction to Computer Programming"
+title: "CSCI-UA 0002 Introduction to Computer Programming (in Python)"
 collection: teaching
 type: "Tutor"
 permalink: /teaching/2023-spring
-venue: "New York University, Computer Science"
+venue: "New York University, Department of Computer Science"
 semester: Spring 2023
 date: 2023-01-23
 location: "New York, NY"
 ---
 
 [Common Course Syllabus](https://cs.nyu.edu/elearning/CSCI_UA_0002/common_syllabus.php)
+
+
+## Course Description
+
+An introduction to the fundamentals of computer programming, which is the foundation of Computer Science. Students design, write and debug computer programs. No knowledge of programming is assumed.
+
 
 ## In-class Tutoring
 
