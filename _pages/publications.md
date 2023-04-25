@@ -11,16 +11,20 @@ author_profile: true
 
 {% include base_path %}
 
+<br />
 
 Work in Progress
 ------
 
 <br />
 
+**Automated Discovery of Difference-in-Differences**
+
 **A Regularized Adjusted Expected Goal Plus-Minus Model for Soccer**
 
+<!---
 (with [Edvin Tran Hoac](https://www.edvintranhoac.com/), and [Phong Hoang](https://medium.com/@IwriteDSblog))
-
+-->
 
 
 <!---
