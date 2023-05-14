@@ -20,20 +20,22 @@ News
 ------
 
 **March 2023**:
-I will participate the [Quantitative Sciences Undergraduate Research Experience](https://www.mskcc.org/departments/epidemiology-biostatistics/quantitative-sciences-summer-undergraduate-research-experience-qsure) program at Department of Epidemiology and Biostatistics of Memorial Sloan Kettering Cancer Center this summer and will be advised by [Dr. Wesley Tansey](https://wesleytansey.com/) !
+I will participate the [Quantitative Sciences Undergraduate Research Experience](https://www.mskcc.org/departments/epidemiology-biostatistics/quantitative-sciences-summer-undergraduate-research-experience-qsure) program at Department of Epidemiology and Biostatistics of Memorial Sloan Kettering Cancer Center this summer and will be advised by [Dr. Wesley Tansey](https://wesleytansey.com/).
 
 **February 2023**:
-I am excited to join the [Machine Learning for Good Laboratory](https://wp.nyu.edu/ml4good/) at NYU directed by [Dr. Daniel Neill](http://cs.nyu.edu/~neill) !
+I am excited to join the [Machine Learning for Good Laboratory](https://wp.nyu.edu/ml4good/) at NYU directed by [Dr. Daniel Neill](http://cs.nyu.edu/~neill).
 
+<!--
 **December 2022**:
 My submission on [Fingertips Position Estimation of a Robot Hand](https://gary-boyuan-zhang.github.io/portfolio/2022-12-Robot_Hand_Fingertips_Estimation/) project ranked 6/180+ in Intro to ML class!
+-->
 
 **October 2022**: 
-I present [A Regularized Adjusted Plus-Minus Model in Soccer with Box Score Prior](https://gary-boyuan-zhang.github.io/talks/2022-10-29-CMSAC) at 2022 [Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/2022/)!
+I present [A Regularized Adjusted Plus-Minus Model in Soccer with Box Score Prior](https://gary-boyuan-zhang.github.io/talks/2022-10-29-CMSAC) at 2022 [Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/2022/).
 
 
 **May 2022**: 
-I will be participating [Summer Undergraduate Research Experience in Statistics](http://summer.stat.cmu.edu/) at Carnegie Mellon University Department of Statistics & Data Science this summer!
+I will be participating [Summer Undergraduate Research Experience in Statistics](http://summer.stat.cmu.edu/) at Carnegie Mellon University Department of Statistics & Data Science this summer.
 
 <br />
 
