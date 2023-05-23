@@ -11,9 +11,8 @@ location: "New York, NY"
 
 [Course Website](https://brightspace.nyu.edu/d2l/home/290575), [Syllabus](https://brightspace.nyu.edu/content/enforced/290575-SU23_DS-UA_201_1_001/Syllabus_Summer_2023.pdf)
 
-<br />
 
-[DS-UA 201](https://brightspace.nyu.edu/d2l/home/290575) with Prof. [Parijat Dube](): 
+[DS-UA 201](https://brightspace.nyu.edu/d2l/home/290575) with Dr. [Parijat Dube](https://www.linkedin.com/in/parijatdube/): 
 
 **Lecture:** Monday 17:00 - 19:55 at [19UP 102](https://goo.gl/maps/64zUc4HM6Ph2ct6F9)
 
