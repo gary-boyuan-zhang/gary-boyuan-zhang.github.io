@@ -19,7 +19,7 @@ Statistical/Machine Learning & Deep Learning:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp; [Theory of Deep Learning](https://gary-boyuan-zhang.github.io/courses/math_ga_2840_theory_of_deep_learning) 
-&nbsp;&nbsp; (PhD level)
+&nbsp;&nbsp; (Graduate level)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DS-GA 3001 *Special Topics in Data Science:*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,7 +27,7 @@ Statistical/Machine Learning & Deep Learning:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp; [Modern Topics in Statistical Learning Theory](https://gary-boyuan-zhang.github.io/courses/ds_ga_3001_statistical_learning_theory) 
-&nbsp;&nbsp; (Graduate/PhD level)
+&nbsp;&nbsp; (Graduate level)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DS-UA 301 *Advanced Topics in Data Science:*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,6 +35,8 @@ Statistical/Machine Learning & Deep Learning:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp; [Advanced Techniques in Machine Learning and Deep Learning](https://gary-boyuan-zhang.github.io/courses/ds_ua_301)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSCI-UA 475 [Predictive Analytics](https://gary-boyuan-zhang.github.io/courses/csci_ua_475)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSCI-UA 473 [Introduction to Machine Learning](https://gary-boyuan-zhang.github.io/courses/csci_ua_473)
 
@@ -47,7 +49,7 @@ Probability & Statistics
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp; [Probability and Statistics 2](https://gary-boyuan-zhang.github.io/courses/ds_ga_3001_probability_and_statistics_2)
-&nbsp;&nbsp; (Graduate/PhD level)
+&nbsp;&nbsp; (Graduate level)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; STAT-UB 21 / STAT-GB 3321 [Introduction to Stochastic Processes](https://gary-boyuan-zhang.github.io/courses/stat_ub_21)
 &nbsp;&nbsp; (cross-listed with Graduate school)
