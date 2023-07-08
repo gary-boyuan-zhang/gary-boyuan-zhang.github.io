@@ -18,6 +18,8 @@ Work in Progress
 
 <br />
 
+**Testing for Individual Causal Effects in Observational Data**
+
 **Automated Discovery of Difference-in-Differences**
 
 **A Regularized Adjusted Expected Goal Plus-Minus Model for Soccer**
