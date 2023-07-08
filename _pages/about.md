@@ -25,7 +25,6 @@ I am planning to conclude my undergraduate study on December 2023, and
 I could be reached at FIRSTNAME.LASTNAME [at] nyu.edu
 -->
 
-<br />
 
 ## Advertisement
 
