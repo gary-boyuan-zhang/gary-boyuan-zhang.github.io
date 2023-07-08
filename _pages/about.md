@@ -36,7 +36,6 @@ I am actively looking for research and collaboration opportunities in Spring and
 Feel free to reach me at boyuan.zhang [at] nyu.edu
 
 
-<br />
 
 News
 ------
