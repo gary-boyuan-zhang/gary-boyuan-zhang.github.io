@@ -26,7 +26,7 @@ I could be reached at FIRSTNAME.LASTNAME [at] nyu.edu
 -->
 
 
-## Advertisement
+## Self-advertisement
 
 
 I will apply for PhD programs this fall (for starting in Fall 2024).
