@@ -29,7 +29,7 @@ I could be reached at FIRSTNAME.LASTNAME [at] nyu.edu
 ## Advertisement
 
 
-I will apply for PhD programs in statistics and data science this fall (for starting in Fall 2024).
+I will apply for PhD programs this fall (for starting in Fall 2024).
 
 I am actively looking for research and collaboration opportunities in Spring and Summer 2024.
 
