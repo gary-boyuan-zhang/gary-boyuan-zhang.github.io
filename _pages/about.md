@@ -34,9 +34,7 @@ I could be reached at FIRSTNAME.LASTNAME [at] nyu.edu
 
 I will apply for PhD programs this fall (for starting in Fall 2024).
 
-I am actively looking for research and collaboration opportunities in Spring and Summer 2024.
-
-Feel free to reach me at boyuan.zhang [at] nyu.edu
+I am open to research and collaboration opportunities. Please feel free to reach me at boyuan.zhang [at] nyu.edu
 
 
 
