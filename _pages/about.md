@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising senior undergraduate student at [New York University](https://www.nyu.edu/), joint majoring in Data Science and Computer Science and double minoring in Mathematics and Business Studies. I am passionate about transforming insight from data and broadly interested in statistical inference, data science, machine learning, and their applications to healthcare, public policy, social science, and sports. 
-In particular, I am interested in exploring Causal and Bayesian Inference techniques in observational settings.
+Hi! I am a rising senior undergraduate student at [New York University](https://www.nyu.edu/), joint majoring in Data Science and Computer Science and double minoring in Mathematics and Business Studies. 
+I am proud to be a member of the [Machine Learning for Good Lab at NYU](https://wp.nyu.edu/ml4good/) led by [Prof. Daniel Neill](http://cs.nyu.edu/~neill). This summer, I am also fortunate to work under the guidance of [Dr. Wesley Tansey](https://wesleytansey.com/) in the Department of Epidemiology and Biostatistics at Memorial Sloan Kettering Cancer Center.
 
+
+I am passionate about transforming insight from data and broadly interested in statistical inference, data science, machine learning, and their applications to healthcare, public policy, social science, and sports. 
+In particular, I am interested in exploring Causal and Bayesian Inference techniques in observational settings.
 Feel free to explore some of my recent [projects](https://gary-boyuan-zhang.github.io/projects/) and [research](https://gary-boyuan-zhang.github.io/research/).
 More of my background could be found in [CV](https://gary-boyuan-zhang.github.io/files/CV.pdf).
 In addition, I share a strong passion for [teaching](https://gary-boyuan-zhang.github.io/teaching/).
@@ -26,7 +29,7 @@ I could be reached at FIRSTNAME.LASTNAME [at] nyu.edu
 -->
 
 
-## Self-advertisement
+## Annoucement
 
 
 I will apply for PhD programs this fall (for starting in Fall 2024).
@@ -41,7 +44,7 @@ News
 ------
 
 **March 2023**:
-I will participate the [Quantitative Sciences Undergraduate Research Experience](https://www.mskcc.org/departments/epidemiology-biostatistics/quantitative-sciences-summer-undergraduate-research-experience-qsure) program at Department of Epidemiology and Biostatistics of Memorial Sloan Kettering Cancer Center this summer and will be advised by [Dr. Wesley Tansey](https://wesleytansey.com/).
+I will participate in the [QSURE](https://www.mskcc.org/departments/epidemiology-biostatistics/quantitative-sciences-summer-undergraduate-research-experience-qsure) program at the Department of Epidemiology and Biostatistics of Memorial Sloan Kettering Cancer Center this summer and will be advised by [Dr. Wesley Tansey](https://wesleytansey.com/).
 
 **February 2023**:
 I am excited to join the [Machine Learning for Good Laboratory](https://wp.nyu.edu/ml4good/) at NYU directed by [Dr. Daniel Neill](http://cs.nyu.edu/~neill).
@@ -56,7 +59,7 @@ I present [A Regularized Adjusted Plus-Minus Model in Soccer with Box Score Prio
 
 
 **May 2022**: 
-I will be participating [Summer Undergraduate Research Experience in Statistics](http://summer.stat.cmu.edu/) at Carnegie Mellon University Department of Statistics & Data Science this summer.
+I will be participating [SURE in Statistics](http://summer.stat.cmu.edu/) at Carnegie Mellon University Department of Statistics & Data Science this summer.
 
 <br />
 
