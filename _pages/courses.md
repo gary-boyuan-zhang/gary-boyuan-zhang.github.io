@@ -11,7 +11,7 @@ author_profile: true
 I am fortunate enough to have the opportunities to take the following courses with outstanding professors at NYU:
 -->
 
-Machine Learning
+Statistical & Machine Learning
 ------
 
 - MATH-GA 2840 [Theory of Deep Learning](https://gary-boyuan-zhang.github.io/courses/math_ga_2840_theory_of_deep_learning) (Graduate)
@@ -24,7 +24,7 @@ Machine Learning
 
 - CSCI-UA 473 [Introduction to Machine Learning](https://gary-boyuan-zhang.github.io/courses/csci_ua_473)
 
-Statistics
+Probability & Statistics
 ------
 
 - DS-GA 3001 / MATH-GA 2840 [Probability and Statistics 2](https://gary-boyuan-zhang.github.io/courses/ds_ga_3001_probability_and_statistics_2) 
