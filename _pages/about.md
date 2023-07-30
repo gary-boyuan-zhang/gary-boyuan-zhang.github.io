@@ -17,6 +17,7 @@ In particular, I am interested in exploring Causal and Bayesian Inference techni
 Feel free to explore some of my recent [projects](https://gary-boyuan-zhang.github.io/projects/) and [research](https://gary-boyuan-zhang.github.io/research/).
 More of my background could be found in [CV](https://gary-boyuan-zhang.github.io/files/CV.pdf).
 In addition, I share a strong passion for [teaching](https://gary-boyuan-zhang.github.io/teaching/).
+I could be reached at boyuan.zhang [at] nyu.edu
 
 When not working, you might find me running [orienteering]() with a map and a compass in some random forest or park.
 
@@ -26,7 +27,7 @@ I am dedicated to pursuing a career in researching and transforming knowledge to
 I am planning to conclude my undergraduate study on December 2023, and 
 
 I could be reached at FIRSTNAME.LASTNAME [at] nyu.edu
--->
+
 
 
 ## Annoucement
@@ -35,7 +36,7 @@ I could be reached at FIRSTNAME.LASTNAME [at] nyu.edu
 I will apply for PhD programs this fall (for starting in Fall 2024).
 
 I am open to research and collaboration opportunities. Please feel free to reach me at boyuan.zhang [at] nyu.edu
-
+-->
 
 
 News
