@@ -42,6 +42,9 @@ I am open to research and collaboration opportunities. Please feel free to reach
 News
 ------
 
+**August 2023**: 
+I present [Testing for Individual Causal Effects in Observational Data]() at the 2023 QSURE Symposium.
+
 **March 2023**:
 I will participate in the [QSURE](https://www.mskcc.org/departments/epidemiology-biostatistics/quantitative-sciences-summer-undergraduate-research-experience-qsure) program at the Department of Epidemiology and Biostatistics of Memorial Sloan Kettering Cancer Center this summer and will be advised by [Dr. Wesley Tansey](https://wesleytansey.com/).
 
