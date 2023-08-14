@@ -20,20 +20,20 @@ My research mainly focuses on discovering and exploiting causality in observatio
 
 <br />
 
-Work in Progress
+Works in Progress
 ------
 
 <br />
 
 **Testing for Individual Causal Effects in Observational Data**
+(with Wesley Tansey)
 
 **Automated Discovery of Difference-in-Differences**
+(with William Herlands, Edward McFowland, and Daniel Neill)
 
 **A Regularized Adjusted Expected Goal Plus-Minus Model for Soccer**
+(with [Edvin Tran Hoac](https://www.edvintranhoac.com/) and [Phong Hoang](https://medium.com/@IwriteDSblog))
 
-<!---
-(with [Edvin Tran Hoac](https://www.edvintranhoac.com/), and [Phong Hoang](https://medium.com/@IwriteDSblog))
--->
 
 
 <!---
