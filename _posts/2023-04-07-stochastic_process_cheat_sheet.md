@@ -1,7 +1,7 @@
 ---
-title: 'Stochastic Process Cheat Sheet: Discrete and Continous-time Markov Chains'
+title: 'Discrete and Continous-time Markov Chains'
 date: 2023-04-07
-permalink: /posts/2023/04/stochastic_process_cheat_sheet/
+permalink: /posts/2023/04/discrete_and_continous_markov_chains/
 tags:
   - Stochastic Process
   - Markov Chain
