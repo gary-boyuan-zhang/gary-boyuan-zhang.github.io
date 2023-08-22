@@ -1,7 +1,7 @@
 ---
-title: 'Causal Inference: An Example on Estimating ITT and LATE via Instrumental Variable'
+title: 'An Example of Estimating ITT and LATE via Instrumental Variable'
 date: 2023-01-31
-permalink: /posts/2023/01/causal_inference_instrumental_variable_example/
+permalink: /posts/2023/01/instrumental_variable_example/
 tags:
   - Causal Inference
   - Instrumental Variable
@@ -24,7 +24,7 @@ import pandas as pd
 
 ## 1. Introduction
 
-Patients who get surgery, for example for orthopaedic reasons, are often advised by the doctors, subsequently to surgery, to get physiotherapy, that is, a series of exercises to help rehabilitation and more complete recovery. However, the costs of physiotherapy may often deter patients from following it. **It is therefore important to try to show the potential benefits of physiotherapy, so that more patients can become convinced to follow it.**
+Patients who get surgery, for example for orthopedic reasons, are often advised by the doctors, subsequently to surgery, to get physiotherapy, that is, a series of exercises to help rehabilitation and more complete recovery. However, the costs of physiotherapy may often deter patients from following it. **It is therefore important to try to show the potential benefits of physiotherapy, so that more patients can become convinced to follow it.**
 
 ### 1.1 Setting
 
