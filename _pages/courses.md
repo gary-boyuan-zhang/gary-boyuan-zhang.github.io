@@ -50,7 +50,7 @@ Data Science
 Computer Science Foundations
 ------
 
-- CSCI-UA 310 [Basic Algorithms](https://gary-boyuan-zhang.github.io/courses/csci_ua_310) 
+- CSCI-UA 310 [Algorithms](https://gary-boyuan-zhang.github.io/courses/csci_ua_310) 
 
 - CSCI-UA 201 [Computer Systems Organization](https://gary-boyuan-zhang.github.io/courses/csci_ua_201)
 
