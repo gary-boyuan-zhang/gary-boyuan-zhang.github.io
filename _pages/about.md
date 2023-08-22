@@ -14,10 +14,12 @@ I am proud to be a member of the [Machine Learning for Good Lab at NYU](https://
 
 I am passionate about transforming insight from data and broadly interested in statistical inference, data science, machine learning, and their applications to healthcare, public policy, social science, and sports. 
 In particular, I am interested in exploring Causal and Bayesian Inference techniques in observational settings.
+
+
 Feel free to explore some of my recent [projects](https://gary-boyuan-zhang.github.io/projects/) and [research](https://gary-boyuan-zhang.github.io/research/).
 More of my background could be found in [CV](https://gary-boyuan-zhang.github.io/files/CV.pdf).
 In addition, I share a strong passion for [teaching](https://gary-boyuan-zhang.github.io/teaching/).
-I could be reached at **boyuan.zhang [at] nyu.edu**
+I could be reached at **boyuan.zhang@nyu.edu**
 
 When not working, you might find me running [orienteering]() with a map and a compass in some random forest or park.
 
