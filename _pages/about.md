@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a rising senior undergraduate student at [New York University](https://www.nyu.edu/), joint majoring in Data Science and Computer Science and double minoring in Mathematics and Business Studies. 
+Hi! I am a senior undergraduate student at [New York University](https://www.nyu.edu/), joint majoring in Data Science and Computer Science and double minoring in Mathematics and Business Studies. 
 I am proud to be a member of the [Machine Learning for Good Lab at NYU](https://wp.nyu.edu/ml4good/) led by [Prof. Daniel Neill](http://cs.nyu.edu/~neill). This summer, I am also fortunate to work under the guidance of [Dr. Wesley Tansey](https://wesleytansey.com/) in the Department of Epidemiology and Biostatistics at Memorial Sloan Kettering Cancer Center.
 
 
@@ -16,7 +16,7 @@ I am passionate about transforming insight from data and broadly interested in s
 In particular, I am interested in exploring Causal and Bayesian Inference techniques in observational settings.
 
 
-Feel free to explore some of my recent [projects](https://gary-boyuan-zhang.github.io/projects/) and [research](https://gary-boyuan-zhang.github.io/research/).
+Feel free to explore some of my recent [course projects](https://gary-boyuan-zhang.github.io/projects/) and [research](https://gary-boyuan-zhang.github.io/research/).
 More of my background could be found in [CV](https://gary-boyuan-zhang.github.io/files/CV.pdf).
 In addition, I share a strong passion for [teaching](https://gary-boyuan-zhang.github.io/teaching/).
 I could be reached at **boyuan.zhang@nyu.edu**
