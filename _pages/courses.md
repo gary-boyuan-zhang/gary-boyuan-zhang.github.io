@@ -55,6 +55,7 @@ Data Science
 
 - DS-UA 112 [Introduction to Data Science](https://gary-boyuan-zhang.github.io/courses/ds_ua_112)
 
+<!---
 Computer Science Foundations
 ------
 
@@ -63,8 +64,10 @@ Computer Science Foundations
 - CSCI-UA 201 [Computer Systems Organization](https://gary-boyuan-zhang.github.io/courses/csci_ua_201)
 
 - CSCI-UA 102 [Data Structures](https://gary-boyuan-zhang.github.io/courses/csci_ua_102)
+-->
 
-Mathematical Foundations
+
+Mathematical & Algorithmic Foundations
 ------
 
 - MATH-UA 325 [Real Analysis](https://gary-boyuan-zhang.github.io/courses/math_ua_325)
@@ -75,7 +78,11 @@ Mathematical Foundations
 
 - MATH-UA 120 [Discrete Mathematics](https://gary-boyuan-zhang.github.io/courses/math_ua_120)
 
+- CSCI-UA 310 [Algorithms](https://gary-boyuan-zhang.github.io/courses/csci_ua_310) 
 
+- CSCI-UA 201 [Computer Systems Organization](https://gary-boyuan-zhang.github.io/courses/csci_ua_201)
+
+- CSCI-UA 102 [Data Structures](https://gary-boyuan-zhang.github.io/courses/csci_ua_102)
 <br/>
 
 
