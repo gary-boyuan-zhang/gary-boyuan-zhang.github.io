@@ -18,6 +18,8 @@ Statistical & Machine Learning
 
 - DS-GA 3001 [Modern Topics in Statistical Learning Theory](https://gary-boyuan-zhang.github.io/courses/ds_ga_3001_statistical_learning_theory) (Graduate)
 
+- CSCI-GA 3033 / DS-GA 3001 [Machine Learning for Healthcare]() (Graduate)
+
 - DS-UA 301 [Advanced Techniques in Machine Learning and Deep Learning](https://gary-boyuan-zhang.github.io/courses/ds_ua_301)
 
 - CSCI-UA 475 [Predictive Analytics](https://gary-boyuan-zhang.github.io/courses/csci_ua_475)
@@ -27,6 +29,10 @@ Statistical & Machine Learning
 Probability & Statistics
 ------
 
+- DS-GA 1020 / MATH-GA 2830 [Mathematical Statistics]() (Graduate)
+  
+- DS-GA 3001 [Applied Statistics]() (Graduate)
+  
 - DS-GA 3001 / MATH-GA 2840 [Probability and Statistics 2](https://gary-boyuan-zhang.github.io/courses/ds_ga_3001_probability_and_statistics_2) 
 (Graduate)
 
