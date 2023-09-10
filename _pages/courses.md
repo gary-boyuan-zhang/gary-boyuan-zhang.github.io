@@ -11,6 +11,25 @@ author_profile: true
 I am fortunate enough to have the opportunities to take the following courses with outstanding professors at NYU:
 -->
 
+Probability & Statistics
+------
+
+- DS-GA 3001 [Applied Statistics]() (Graduate)
+  
+- DS-GA 1020 / MATH-GA 2830 [Mathematical Statistics]() (Graduate)
+  
+- DS-GA 3001 / MATH-GA 2840 [Probability and Statistics 2](https://gary-boyuan-zhang.github.io/courses/ds_ga_3001_probability_and_statistics_2) 
+(Graduate)
+
+- STAT-UB 21 / STAT-GB 3321 [Introduction to Stochastic Processes](https://gary-boyuan-zhang.github.io/courses/stat_ub_21) (Graduate cross-listed)
+
+- DS-UA 9201 [Causal Inference](https://gary-boyuan-zhang.github.io/courses/ds_ua_9201)
+
+- MATH-UA 235 [Probability and Statistics](https://gary-boyuan-zhang.github.io/courses/math_ua_235)
+
+- STAT-UB 3 [Regression and Forecasting Model](https://gary-boyuan-zhang.github.io/courses/stat_ub_3)
+
+  
 Statistical & Machine Learning
 ------
 
@@ -26,23 +45,6 @@ Statistical & Machine Learning
 
 - CSCI-UA 473 [Introduction to Machine Learning](https://gary-boyuan-zhang.github.io/courses/csci_ua_473)
 
-Probability & Statistics
-------
-
-- DS-GA 1020 / MATH-GA 2830 [Mathematical Statistics]() (Graduate)
-  
-- DS-GA 3001 [Applied Statistics]() (Graduate)
-  
-- DS-GA 3001 / MATH-GA 2840 [Probability and Statistics 2](https://gary-boyuan-zhang.github.io/courses/ds_ga_3001_probability_and_statistics_2) 
-(Graduate)
-
-- STAT-UB 21 / STAT-GB 3321 [Introduction to Stochastic Processes](https://gary-boyuan-zhang.github.io/courses/stat_ub_21) (Graduate cross-listed)
-
-- DS-UA 9201 [Causal Inference](https://gary-boyuan-zhang.github.io/courses/ds_ua_9201)
-
-- MATH-UA 235 [Probability and Statistics](https://gary-boyuan-zhang.github.io/courses/math_ua_235)
-
-- STAT-UB 3 [Regression and Forecasting Model](https://gary-boyuan-zhang.github.io/courses/stat_ub_3)
 
 Data Science
 ------
