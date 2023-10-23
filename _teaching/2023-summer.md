@@ -1,7 +1,7 @@
 ---
 title: "DS-UA 201 Causal Inference"
 collection: teaching
-type: "Grader/Course Assistant"
+type: "Teaching Assistant"
 permalink: /teaching/2023-summer
 venue: "New York University, Center for Data Science"
 semester: Summer 2023
