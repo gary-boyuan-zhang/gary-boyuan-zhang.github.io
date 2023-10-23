@@ -1,7 +1,7 @@
 ---
 title: "DS-UA 301 Advanced Techniques in ML and Deep Learning"
 collection: teaching
-type: "Grader/Course Assistant"
+type: "Teaching Assistant"
 permalink: /teaching/2023-fall-ds301
 venue: "New York University, Center for Data Science"
 semester: Fall 2023
