@@ -14,8 +14,8 @@ author_profile: true
 <br />
 
 My research mainly focuses on discovering and exploiting causality in observational data. In particular, I'm interested in: 
-1. developing causal discovery and inference techniques by incorporating both parametric and nonparametric methods,
-2. empowering ML models with learning causal representation, and
+1. developing causal discovery and inference techniques to reveal causal structures in observational data,
+2. empowering ML models with learning causal representation to enhance robustness, and
 3. applications in healthcare, public policy, social science, and sports.
 
 <br />
