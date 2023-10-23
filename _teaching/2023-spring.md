@@ -1,7 +1,7 @@
 ---
 title: "CSCI-UA 0002 Introduction to Computer Programming (in Python)"
 collection: teaching
-type: "Tutor/TA"
+type: "Teaching Assistant"
 permalink: /teaching/2023-spring
 venue: "New York University, Department of Computer Science"
 semester: Spring 2023
