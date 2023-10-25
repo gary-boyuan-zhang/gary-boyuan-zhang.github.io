@@ -12,7 +12,7 @@ Hi! I am a senior undergraduate student at [New York University](https://www.nyu
 I am proud to be a member of the [Machine Learning for Good Lab at NYU](https://wp.nyu.edu/ml4good/) led by [Prof. Daniel Neill](http://cs.nyu.edu/~neill). This summer, I am fortunate to work under the guidance of [Dr. Wesley Tansey](https://wesleytansey.com/) in the Computational Oncology Service of the Department of Epidemiology and Biostatistics at Memorial Sloan Kettering Cancer Center.
 
 
-I am passionate about transforming insight from data and broadly interested in statistical inference, machine learning, and their applications to healthcare, public policy, social science, and sports. 
+I am passionate about transforming insight from data and broadly interested in machine learning, statistical inference, and their applications to healthcare, public policy, social science, and sports. 
 In particular, I am interested in exploring techniques to discover and exploit causality in observational settings.
 
 
