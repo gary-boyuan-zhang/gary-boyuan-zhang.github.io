@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Boyuan Zhang 张博源"
   avatar           : "profile.jpg"
-  bio              : "Computer and Data Science @ NYU '24"
-  location         : "New York, NY"
+  bio              : "MS Stats @ Stanford '26" #"Computer and Data Science @ NYU '24"
+  location         : "Stanford, CA" #"New York, NY"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
