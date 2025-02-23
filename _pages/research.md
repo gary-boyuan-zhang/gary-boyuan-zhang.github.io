@@ -13,7 +13,7 @@ author_profile: true
 
 <br />
 
-My research mainly focuses on discovering and exploiting causality in observational data. In particular, I'm interested in: 
+My research interests lie in causality, statistical inference, and machine learning. In particular, I'm interested in: 
 1. developing methods for causal discovery and inference in observational data,
 2. empowering machine learning models with learning causal representation, and
 3. applications in healthcare, public policy, social science, and sports.
