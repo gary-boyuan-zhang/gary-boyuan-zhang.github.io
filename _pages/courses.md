@@ -11,10 +11,114 @@ author_profile: true
 I am fortunate enough to have the opportunities to take the following courses with outstanding professors at NYU:
 -->
 
-# At NYU:
+## As an undergrad at NYU:
 (xx-Ux stands for undergraduate level; xx-Gx stands for graduate level)
 
-## Probability & Statistics
+<style>
+  /* Optional: light styling so it looks like your screenshot */
+  .course-table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;              /* respect the colgroup widths */
+    margin-bottom: 2rem;
+  }
+  .course-table th, .course-table td {
+    border: 1px solid #ddd;
+    padding: 10px 12px;
+    text-align: left;
+    vertical-align: top;
+  }
+  .course-table th {
+    background: #f3f4f6;
+    font-weight: 700;
+  }
+  h2 {
+    margin: 1.5rem 0 0.5rem;
+  }
+</style>
+
+<h2>Probability &amp; Statistics</h2>
+<table class="course-table">
+  <colgroup>
+    <col style="width:25%">
+    <col style="width:50%">
+    <col style="width:25%">
+  </colgroup>
+  <tr>
+    <th>Course Code</th>
+    <th>Title</th>
+    <th>Professor</th>
+  </tr>
+  <tr><td>DS-GA 3001</td><td>Applied Statistics</td><td>Yanjun Han</td></tr>
+  <tr><td>DS-GA 1020 / MATH-GA 2830</td><td>Mathematical Statistics</td><td>Jonathan Niles-Weed</td></tr>
+  <tr><td>DS-GA 3001 / MATH-GA 2840</td><td>Probability and Statistics 2</td><td>Carlos Fernandez-Granda</td></tr>
+  <tr><td>STAT-UB 21 / STAT-GB 3321</td><td>Introduction to Stochastic Processes</td><td>Halina Frydman</td></tr>
+  <tr><td>DS-UA 9201</td><td>Causal Inference</td><td>Judith Abécassis</td></tr>
+  <tr><td>MATH-UA 235</td><td>Probability and Statistics</td><td>Antoine Cerfon</td></tr>
+  <tr><td>STAT-UB 3</td><td>Regression and Forecasting Model</td><td>Lucius Riccio</td></tr>
+</table>
+
+<h2>Statistical &amp; Machine Learning</h2>
+<table class="course-table">
+  <colgroup>
+    <col style="width:25%">
+    <col style="width:50%">
+    <col style="width:25%">
+  </colgroup>
+  <tr>
+    <th>Course Code</th>
+    <th>Title</th>
+    <th>Professor</th>
+  </tr>
+  <tr><td>MATH-GA 2840</td><td>Theory of Deep Learning</td><td>Arthur Jacot</td></tr>
+  <tr><td>DS-GA 3001</td><td>Modern Topics in Statistical Learning Theory</td><td>Qi Lei</td></tr>
+  <tr><td>CSCI-GA 3033 / DS-GA 3001</td><td>Machine Learning for Healthcare</td><td>Rajesh Ranganath</td></tr>
+  <tr><td>DS-UA 301</td><td>Advanced Techniques in Machine Learning and Deep Learning</td><td>Parijat Dube</td></tr>
+  <tr><td>CSCI-UA 475</td><td>Predictive Analytics</td><td>Anasse Bari</td></tr>
+  <tr><td>CSCI-UA 473</td><td>Introduction to Machine Learning</td><td>Lerrel Pinto</td></tr>
+</table>
+
+<h2>Data Science</h2>
+<table class="course-table">
+  <colgroup>
+    <col style="width:25%">
+    <col style="width:50%">
+    <col style="width:25%">
+  </colgroup>
+  <tr>
+    <th>Course Code</th>
+    <th>Title</th>
+    <th>Professor</th>
+  </tr>
+  <tr><td>CSCI-UA 479</td><td>Data Management and Analysis</td><td>Matthew Zeidenberg</td></tr>
+  <tr><td>DS-UA 202</td><td>Predictive Analytics</td><td>Elisha Cohen</td></tr>
+  <tr><td>DS-UA 112</td><td>Introduction to Machine Learning</td><td>Pascal Wallisch</td></tr>
+</table>
+
+<h2>Mathematical &amp; Algorithmic Foundations</h2>
+<table class="course-table">
+  <colgroup>
+    <col style="width:25%">
+    <col style="width:50%">
+    <col style="width:25%">
+  </colgroup>
+  <tr>
+    <th>Course Code</th>
+    <th>Title</th>
+    <th>Professor</th>
+  </tr>
+  <tr><td>MATH-UA 325</td><td>Real Analysis</td><td>Michal Shavit</td></tr>
+  <tr><td>MATH-UA 140</td><td>Linear Algebra</td><td>Simon Becker</td></tr>
+  <tr><td>MATH-UA 123</td><td>Multivariable and Vector Calculus</td><td>Daniel Stein</td></tr>
+  <tr><td>MATH-UA 120</td><td>Discrete Mathematics</td><td>Hasan Oveys</td></tr>
+  <tr><td>CSCI-UA 310</td><td>Algorithms</td><td>Areeba Ikram</td></tr>
+  <tr><td>CSCI-UA 201</td><td>Computer Systems Organization</td><td>Hasan Aljabbouli</td></tr>
+  <tr><td>CSCI-UA 102</td><td>Data Structures</td><td>Anasse Bari</td></tr>
+</table>
+
+
+
+### Probability & Statistics
 
 | **Course Code** | **Title**                                | **Professor**       |
 |:----------------|:-----------------------------------------|:--------------------|
@@ -43,7 +147,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
 - STAT-UB 3 [Regression and Forecasting Model](https://gary-boyuan-zhang.github.io/courses/stat_ub_3)
 -->
   
-## Statistical & Machine Learning
+### Statistical & Machine Learning
 
 
 | **Course Code** | **Title**                                | **Professor**       |
@@ -98,7 +202,7 @@ Computer Science Foundations
 -->
 
 
-## Mathematical & Algorithmic Foundations
+### Mathematical & Algorithmic Foundations
 
 
 | **Course Code** | **Title**                                | **Professor**       |
