@@ -47,7 +47,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
   <tr>
     <th>Course Code</th>
     <th>Course Name</th>
-    <th>Professor</th>
+    <th>Instructor</th>
   </tr>
   <tr><td>DS-GA 3001</td><td>Applied Statistics</td><td>Yanjun Han</td></tr>
   <tr><td>DS-GA 1020 / MATH-GA 2830</td><td>Mathematical Statistics</td><td>Jonathan Niles-Weed</td></tr>
@@ -68,7 +68,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
   <tr>
     <th>Course Code</th>
     <th>Course Name</th>
-    <th>Professor</th>
+    <th>Instructor</th>
   </tr>
   <tr><td>MATH-GA 2840</td><td>Theory of Deep Learning</td><td>Arthur Jacot</td></tr>
   <tr><td>DS-GA 3001</td><td>Modern Topics in Statistical Learning Theory</td><td>Qi Lei</td></tr>
@@ -88,7 +88,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
   <tr>
     <th>Course Code</th>
     <th>Course Name</th>
-    <th>Professor</th>
+    <th>Instructor</th>
   </tr>
   <tr><td>CSCI-UA 479</td><td>Data Management and Analysis</td><td>Matthew Zeidenberg</td></tr>
   <tr><td>DS-UA 202</td><td>Predictive Analytics</td><td>Elisha Cohen</td></tr>
@@ -105,7 +105,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
   <tr>
     <th>Course Code</th>
     <th>Course Name</th>
-    <th>Professor</th>
+    <th>Instructor</th>
   </tr>
   <tr><td>MATH-UA 325</td><td>Real Analysis</td><td>Michal Shavit</td></tr>
   <tr><td>MATH-UA 140</td><td>Linear Algebra</td><td>Simon Becker</td></tr>
