@@ -37,7 +37,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
   }
 </style>
 
-<h2>Probability &amp; Statistics</h2>
+<h3>Probability &amp; Statistics</h3>
 <table class="course-table">
   <colgroup>
     <col style="width:25%">
@@ -46,7 +46,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
   </colgroup>
   <tr>
     <th>Course Code</th>
-    <th>Title</th>
+    <th>Course Name</th>
     <th>Professor</th>
   </tr>
   <tr><td>DS-GA 3001</td><td>Applied Statistics</td><td>Yanjun Han</td></tr>
@@ -58,7 +58,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
   <tr><td>STAT-UB 3</td><td>Regression and Forecasting Model</td><td>Lucius Riccio</td></tr>
 </table>
 
-<h2>Statistical &amp; Machine Learning</h2>
+<h3>Statistical &amp; Machine Learning</h3>
 <table class="course-table">
   <colgroup>
     <col style="width:25%">
@@ -67,7 +67,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
   </colgroup>
   <tr>
     <th>Course Code</th>
-    <th>Title</th>
+    <th>Course Name</th>
     <th>Professor</th>
   </tr>
   <tr><td>MATH-GA 2840</td><td>Theory of Deep Learning</td><td>Arthur Jacot</td></tr>
@@ -78,7 +78,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
   <tr><td>CSCI-UA 473</td><td>Introduction to Machine Learning</td><td>Lerrel Pinto</td></tr>
 </table>
 
-<h2>Data Science</h2>
+<h3>Data Science</h3>
 <table class="course-table">
   <colgroup>
     <col style="width:25%">
@@ -87,7 +87,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
   </colgroup>
   <tr>
     <th>Course Code</th>
-    <th>Title</th>
+    <th>Course Name</th>
     <th>Professor</th>
   </tr>
   <tr><td>CSCI-UA 479</td><td>Data Management and Analysis</td><td>Matthew Zeidenberg</td></tr>
@@ -95,7 +95,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
   <tr><td>DS-UA 112</td><td>Introduction to Machine Learning</td><td>Pascal Wallisch</td></tr>
 </table>
 
-<h2>Mathematical &amp; Algorithmic Foundations</h2>
+<h3>Mathematical &amp; Algorithmic Foundations</h3>
 <table class="course-table">
   <colgroup>
     <col style="width:25%">
@@ -104,7 +104,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
   </colgroup>
   <tr>
     <th>Course Code</th>
-    <th>Title</th>
+    <th>Course Name</th>
     <th>Professor</th>
   </tr>
   <tr><td>MATH-UA 325</td><td>Real Analysis</td><td>Michal Shavit</td></tr>
@@ -117,7 +117,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
 </table>
 
 
-
+<!---
 ### Probability & Statistics
 
 | **Course Code** | **Title**                                | **Professor**       |
@@ -129,6 +129,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
 | DS-UA 9201       | Causal Inference                  | Judith Abécassis        |
 | MATH-UA 235        | Probability and Statistics                         | Antoine Cerfon        |
 | STAT-UB 3        | Regression and Forecasting Model     | Lucius Riccio       |
+-->
 
 <!---
 - DS-GA 3001 [Applied Statistics]() (Graduate)
@@ -146,7 +147,8 @@ I am fortunate enough to have the opportunities to take the following courses wi
 
 - STAT-UB 3 [Regression and Forecasting Model](https://gary-boyuan-zhang.github.io/courses/stat_ub_3)
 -->
-  
+
+<!---
 ### Statistical & Machine Learning
 
 
@@ -158,7 +160,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
 | DS-UA 301        | Advanced Techniques in Machine Learning and Deep Learning            | Parijat Dube       |
 | CSCI-UA 475       | Predictive Analytics                  | Anasse Bari        |
 | CSCI-UA 473        | Introduction to Machine Learning                         | Lerrel Pinto        |
-
+-->
 <!---
 - MATH-GA 2840 [Theory of Deep Learning](https://gary-boyuan-zhang.github.io/courses/math_ga_2840_theory_of_deep_learning) (Graduate)
 
@@ -173,6 +175,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
 - CSCI-UA 473 [Introduction to Machine Learning](https://gary-boyuan-zhang.github.io/courses/csci_ua_473)
 -->
 
+<!---
 ## Data Science
 
 
@@ -181,6 +184,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
 | CSCI-UA 479       | Data Management and Analysis            | Matthew Zeidenberg       |
 | DS-UA 202       | Predictive Analytics                  | Elisha Cohen       |
 | DS-UA 112        | Introduction to Machine Learning                         | Pascal Wallisch        |
+-->
 
 <!---
 - CSCI-UA 479 [Data Management and Analysis](https://gary-boyuan-zhang.github.io/courses/csci_ua_479)
@@ -201,7 +205,7 @@ Computer Science Foundations
 - CSCI-UA 102 [Data Structures](https://gary-boyuan-zhang.github.io/courses/csci_ua_102)
 -->
 
-
+<!---
 ### Mathematical & Algorithmic Foundations
 
 
@@ -214,7 +218,7 @@ Computer Science Foundations
 | CSCI-UA 310       | Algorithms                  | Areeba Ikram        |
 | CSCI-UA 201        | Computer Systems Organization                         | Hasan Aljabbouli        |
 | CSCI-UA 102        | Data Structures                         | Anasse Bari        |
-
+-->
 
 <!---
 - MATH-UA 325 [Real Analysis](https://gary-boyuan-zhang.github.io/courses/math_ua_325)
@@ -231,6 +235,7 @@ Computer Science Foundations
 
 - CSCI-UA 102 [Data Structures](https://gary-boyuan-zhang.github.io/courses/csci_ua_102)
 -->
+
 
 <br/>
 
