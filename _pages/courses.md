@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Coursework"
+title: ""
 permalink: /courses/
 author_profile: true
 ---
@@ -65,6 +65,8 @@ I am fortunate enough to have the opportunities to take the following courses wi
   <tr><td>STATS 264</td><td>Foundations of Statistical and Scientific Inference</td><td>Steven Goodman</td></tr>
 </table>
 
+<br/>
+<br/>
 
 ## At NYU:
 (xx-Ux stands for undergraduate level; xx-Gx stands for graduate level)
