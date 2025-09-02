@@ -50,7 +50,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
   </tr>
   <tr><td>CME 308</td><td>Stochastic Methods in Engineering</td><td>Peter Glynn</td></tr>
   <tr><td>ECON 272</td><td>Intermediate Econometrics III: Methods for Applied Econometrics</td><td>Guido Imbens</td></tr>
-  <tr><td>EE 364A</td><td>Convex Optimization I</td><td>Stephen Boyd, Babak Ayazifar</td></tr>
+  <tr><td>EE 364A</td><td>Convex Optimization I</td><td>Stephen Boyd</td></tr>
   <tr><td>STATS 300A</td><td>Theory of Statistics I</td><td>Joseph Romano</td></tr>
   <tr><td>STATS 300B</td><td>Theory of Statistics II</td><td>Tselil Schramm</td></tr>
   <tr><td>STATS 300C</td><td>Theory of Statistics III</td><td>Emmanuel Candes</td></tr>
