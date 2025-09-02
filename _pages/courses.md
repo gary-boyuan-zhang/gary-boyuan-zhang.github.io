@@ -63,6 +63,13 @@ I am fortunate enough to have the opportunities to take the following courses wi
   <tr><td>MS&E 379</td><td>Social Data Analysis</td><td>Charles Eesley</td></tr>
   <tr><td>STATS 209</td><td>Introduction to Causal Inference</td><td>Dominik Rothenhaeusler</td></tr>
   <tr><td>STATS 264</td><td>Foundations of Statistical and Scientific Inference</td><td>Steven Goodman</td></tr>
+  
+  <!---
+  <tr><td>STATS 305B</td><td>Applied Statistics II</td><td>Dominik Rothenhaeusler</td></tr>
+  <tr><td>STATS 305C</td><td>Applied Statistics III</td><td>Scott Linderman</td></tr>
+  <tr><td>STATS 307</td><td>Time Series Analysis</td><td>David Donoho</td></tr>
+  -->
+  
 </table>
 
 <br/>
