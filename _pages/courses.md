@@ -48,14 +48,14 @@ I am fortunate enough to have the opportunities to take the following courses wi
     <th>Course Name</th>
     <th>Instructor</th>
   </tr>
-  <tr><td>CME 308 / MS&E 324 / MATH 228</td><td>Stochastic Methods in Engineering</td><td>Peter Glynn</td></tr>
-  <tr><td>ECON 272 / MGTECON 607</td><td>Intermediate Econometrics III: Methods for Applied Econometrics</td><td>Guido Imbens</td></tr>
-  <tr><td>EE 364A / CME 364A</td><td>Convex Optimization I</td><td>Stephen Boyd, Babak Ayazifar</td></tr>
+  <tr><td>CME 308</td><td>Stochastic Methods in Engineering</td><td>Peter Glynn</td></tr>
+  <tr><td>ECON 272</td><td>Intermediate Econometrics III: Methods for Applied Econometrics</td><td>Guido Imbens</td></tr>
+  <tr><td>EE 364A</td><td>Convex Optimization I</td><td>Stephen Boyd, Babak Ayazifar</td></tr>
   <tr><td>STATS 300A</td><td>Theory of Statistics I</td><td>Joseph Romano</td></tr>
   <tr><td>STATS 300B</td><td>Theory of Statistics II</td><td>Tselil Schramm</td></tr>
   <tr><td>STATS 300C</td><td>Theory of Statistics III</td><td>Emmanuel Candes</td></tr>
   <tr><td>STATS 305A</td><td>Applied Statistics I</td><td>Trevor Hastie</td></tr>
-  <tr><td>STATS 310A / MATH 230A</td><td>Theory of Probability I</td><td>Persi Diaconis</td></tr>
+  <tr><td>STATS 310A</td><td>Theory of Probability I</td><td>Persi Diaconis</td></tr>
   <tr><td>STATS 361</td><td>Causal Inference</td><td>Stefan Wager</td></tr>
   <tr><td>STATS 371</td><td>Applied Bayesian Statistics</td><td>Wing H Wong</td></tr>
   <tr><td>CME 302</td><td>Numerical Linear Algebra</td><td>Eric Darve</td></tr>
@@ -82,9 +82,9 @@ I am fortunate enough to have the opportunities to take the following courses wi
     <th>Instructor</th>
   </tr>
   <tr><td>DS-GA 3001</td><td>Applied Statistics</td><td>Yanjun Han</td></tr>
-  <tr><td>DS-GA 1020 / MATH-GA 2830</td><td>Mathematical Statistics</td><td>Jonathan Niles-Weed</td></tr>
-  <tr><td>DS-GA 3001 / MATH-GA 2840</td><td>Probability and Statistics 2</td><td>Carlos Fernandez-Granda</td></tr>
-  <tr><td>STAT-UB 21 / STAT-GB 3321</td><td>Introduction to Stochastic Processes</td><td>Halina Frydman</td></tr>
+  <tr><td>DS-GA 1020</td><td>Mathematical Statistics</td><td>Jonathan Niles-Weed</td></tr>
+  <tr><td>DS-GA 3001</td><td>Probability and Statistics 2</td><td>Carlos Fernandez-Granda</td></tr>
+  <tr><td>STAT-UB 21</td><td>Introduction to Stochastic Processes</td><td>Halina Frydman</td></tr>
   <tr><td>DS-UA 9201</td><td>Causal Inference</td><td>Judith Abécassis</td></tr>
   <tr><td>MATH-UA 235</td><td>Probability and Statistics</td><td>Antoine Cerfon</td></tr>
   <tr><td>STAT-UB 3</td><td>Regression and Forecasting Model</td><td>Lucius Riccio</td></tr>
@@ -104,7 +104,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
   </tr>
   <tr><td>MATH-GA 2840</td><td>Theory of Deep Learning</td><td>Arthur Jacot</td></tr>
   <tr><td>DS-GA 3001</td><td>Modern Topics in Statistical Learning Theory</td><td>Qi Lei</td></tr>
-  <tr><td>CSCI-GA 3033 / DS-GA 3001</td><td>Machine Learning for Healthcare</td><td>Rajesh Ranganath</td></tr>
+  <tr><td>CSCI-GA 3033</td><td>Machine Learning for Healthcare</td><td>Rajesh Ranganath</td></tr>
   <tr><td>DS-UA 301</td><td>Advanced Techniques in Machine Learning and Deep Learning</td><td>Parijat Dube</td></tr>
   <tr><td>CSCI-UA 475</td><td>Predictive Analytics</td><td>Anasse Bari</td></tr>
   <tr><td>CSCI-UA 473</td><td>Introduction to Machine Learning</td><td>Lerrel Pinto</td></tr>
