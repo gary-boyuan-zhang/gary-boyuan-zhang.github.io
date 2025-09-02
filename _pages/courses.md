@@ -11,9 +11,6 @@ author_profile: true
 I am fortunate enough to have the opportunities to take the following courses with outstanding professors at NYU:
 -->
 
-## As an undergrad at NYU:
-(xx-Ux stands for undergraduate level; xx-Gx stands for graduate level)
-
 <style>
   /* Optional: light styling so it looks like your screenshot */
   .course-table {
@@ -36,6 +33,36 @@ I am fortunate enough to have the opportunities to take the following courses wi
     margin: 1.5rem 0 0.5rem;
   }
 </style>
+
+
+## At Stanford:
+
+<table class="course-table">
+  <colgroup>
+    <col style="width:25%">
+    <col style="width:50%">
+    <col style="width:25%">
+  </colgroup>
+  <tr>
+    <th>Course Code</th>
+    <th>Course Name</th>
+    <th>Instructor</th>
+  </tr>
+  <tr><td>CME 308</td><td>Stochastic Methods in Engineering</td><td>Peter Glynn</td></tr>
+  <tr><td>ECON 272</td><td>Methods for Applied Econometrics</td><td>Guido Imbens</td></tr>
+  <tr><td>EE 364A</td><td>Convex Optimization I</td><td>Stephen Boyd, Babak Ayazifar</td></tr>
+  <tr><td>STATS 300A</td><td>Theory of Statistics I</td><td>Joseph Romano</td></tr>
+  <tr><td>STATS 300B</td><td>Theory of Statistics II</td><td>Tselil Schramm</td></tr>
+  <tr><td>STATS 300C</td><td>Theory of Statistics III</td><td>Emmanuel Candes</td></tr>
+  <tr><td>STATS 305A</td><td>Applied Statistics I</td><td>Trevor Hastie</td></tr>
+  <tr><td>STATS 310A</td><td>Theory of Probability I</td><td>Persi Diaconis</td></tr>
+  <tr><td>STATS 361</td><td>Causal Inference</td><td>Stefan Wager</td></tr>
+  <tr><td>STATS 371</td><td>Applied Bayesian Statistics</td><td>Wing H Wong</td></tr>
+</table>
+
+
+## At NYU:
+(xx-Ux stands for undergraduate level; xx-Gx stands for graduate level)
 
 <h3>Probability &amp; Statistics</h3>
 <table class="course-table">
