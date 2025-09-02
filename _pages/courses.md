@@ -66,7 +66,6 @@ I am fortunate enough to have the opportunities to take the following courses wi
 </table>
 
 <br/>
-<br/>
 
 ## At NYU:
 (xx-Ux stands for undergraduate level; xx-Gx stands for graduate level)
