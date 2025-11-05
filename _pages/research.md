@@ -5,12 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my works on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+
 
 {% include base_path %}
 
+<!---
 <br />
 
 My research interests lie in causality, statistical inference, and machine learning. In particular, I'm interested in: 
@@ -19,6 +19,7 @@ My research interests lie in causality, statistical inference, and machine learn
 3. applications in healthcare, public policy, social science, and sports.
 
 <br />
+-->
 
 Works in Progress
 ------
