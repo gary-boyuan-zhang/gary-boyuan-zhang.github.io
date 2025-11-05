@@ -132,7 +132,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
   </tr>
   <tr><td>CSCI-UA 479</td><td>Data Management and Analysis</td><td>Matthew Zeidenberg</td></tr>
   <tr><td>DS-UA 202</td><td>Predictive Analytics</td><td>Elisha Cohen</td></tr>
-  <tr><td>DS-UA 112</td><td>Introduction to Machine Learning</td><td>Pascal Wallisch</td></tr>
+  <tr><td>DS-UA 112</td><td>Introduction to Data Science</td><td>Pascal Wallisch</td></tr>
 </table>
 
 <h3>Mathematical &amp; Algorithmic Foundations</h3>
