@@ -8,20 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a master's student in Statistics at [Stanford University](https://www.stanford.edu). Before this, I received my bachelor's degree in Computer and Data Science from [New York University](https://www.nyu.edu/).
+Hi! I am a master's student in the [Department of Statistics](https://stats.stanford.edu) at [Stanford University](https://www.stanford.edu). Previously, I received my bachelor's degree in Computer and Data Science from [New York University](https://www.nyu.edu/).
+My research interests lie at the intersection of causality, statistical inference, and machine learning, with applications in healthcare, public policy, social science, and sports.
+
+<!---
 During my undergrad, I am fortunate to work under the guidance of [Dr. Wesley Tansey](https://wesleytansey.com/), [Prof. Daniel Neill](http://cs.nyu.edu/~neill), [Prof. Ron Yurko](https://www.stat.cmu.edu/~ryurko), and [Prof. Konstantinos Pelechrinis](https://sites.pitt.edu/~kpele).
 
 
-I am passionate about transforming insight from data and broadly interested in machine learning, statistical inference, and their applications to healthcare, public policy, social science, and sports. 
+I am passionate about transforming insights from data to facilitate decision-making and broadly interested in causality, statistical inference, machine learning, and their applications to healthcare, public policy, social science, and sports. 
 In particular, I am interested in developing techniques to discover and exploit causality in observational settings.
 
 
 Feel free to explore some of my recent [projects](https://gary-boyuan-zhang.github.io/projects/) and [research](https://gary-boyuan-zhang.github.io/research/).
 More of my background can be found in [CV](https://gary-boyuan-zhang.github.io/files/CV.pdf).
 In addition, I share a strong passion for [teaching](https://gary-boyuan-zhang.github.io/teaching/).
-I could be reached at **boyuan.zhang@nyu.edu** or **boyuanz@stanford.edu**
+-->
 
-When not working, you might find me running [orienteering]() with a map and a compass in some random forest or park.
+I could be reached at **boyuan.zhang@stanford.edu**
+
+When not working, you might find me [orienteering]() 🏃‍♂️🧭🗺️ in some random forest. 🌲🌳
 
 <!---
 , joint majoring in Data Science and Computer Science and double minoring in Mathematics and Business Studies. 
