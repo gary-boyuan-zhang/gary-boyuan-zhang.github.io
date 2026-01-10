@@ -35,7 +35,8 @@ I am fortunate enough to have the opportunities to take the following courses wi
 </style>
 
 
-## At Stanford:
+## at Stanford:
+(all PhD level unless otherwise noted; *master level)
 
 <table class="course-table">
   <colgroup>
@@ -55,7 +56,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
   <tr><td>MS&E 328</td><td>Foundations of Causal Machine Learning</td><td>Vasilis Syrgkanis</td></tr>
   <tr><td>MS&E 365</td><td>Market Design in the Age of Transformative AI</td><td>Daniela Saban; Itai Ashlagi</td></tr>
   <tr><td>MS&E 379</td><td>Social Data Analysis</td><td>Charles Eesley</td></tr>
-  <tr><td>STATS 209</td><td>Introduction to Causal Inference</td><td>Dominik Rothenhaeusler</td></tr>
+  <tr><td>STATS 209*</td><td>Introduction to Causal Inference</td><td>Dominik Rothenhaeusler</td></tr>
   <tr><td>STATS 300A</td><td>Theory of Statistics I</td><td>Joseph Romano</td></tr>
   <tr><td>STATS 300B</td><td>Theory of Statistics II</td><td>Tselil Schramm</td></tr>
   <tr><td>STATS 300C</td><td>Theory of Statistics III</td><td>Emmanuel Candes</td></tr>
@@ -78,7 +79,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
 
 <br/>
 
-## At NYU:
+## at NYU:
 (-Ux stands for undergraduate level; -Gx stands for graduate level)
 
 <h3>Probability &amp; Statistics</h3>
