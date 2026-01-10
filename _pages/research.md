@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-You can also find my works on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my works on <u><a href="{{https://scholar.google.com/citations?hl=en&authuser=1&user=8vND9lMAAAAJ}}">my Google Scholar profile</a>.</u>
 
 
 {% include base_path %}
@@ -22,7 +22,8 @@ My research interests lie in causality, statistical inference, and machine learn
 <br />
 -->
 
-Preprints
+## Preprints
+
 ------
 
 **Treatment response as a latent variable**  
@@ -31,11 +32,11 @@ C. Tosh, <u>B. Zhang</u>, W. Tansey
 
 <br />
 
-Works in Progress
+## Works in Progress
+
 ------
 
 **Causal Mediation Analysis with Encoding Generative Modeling**
-
 
 <br />
 
