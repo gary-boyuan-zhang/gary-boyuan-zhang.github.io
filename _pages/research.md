@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-<!---
+
 You can also find my works on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
--->
+
 
 {% include base_path %}
 
@@ -22,8 +22,25 @@ My research interests lie in causality, statistical inference, and machine learn
 <br />
 -->
 
+Preprints
+------
+
+**Treatment response as a latent variable**  
+C. Tosh, <u>B. Zhang</u>, W. Tansey  
+[[paper]](https://arxiv.org/abs/2502.08776) [[code]](https://github.com/tansey-lab/causal2groups)
+
+<br />
+
 Works in Progress
 ------
+
+**Causal Mediation Analysis with Encoding Generative Modeling**
+
+
+<br />
+
+**Post-Eviction Mobility Patterns in Los Angeles County** 
+(with [Aviv Caspi](https://sites.google.com/view/avivcaspi/home))
 
 <br />
 
