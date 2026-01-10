@@ -155,7 +155,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
   <tr><td>MATH-UA 325</td><td>Real Analysis</td><td>Michal Shavit</td></tr>
   <tr><td>MATH-UA 140</td><td>Linear Algebra</td><td>Simon Becker</td></tr>
   <tr><td>MATH-UA 123</td><td>Multivariable and Vector Calculus</td><td>Daniel Stein</td></tr>
-  <tr><td>MATH-UA 120</td><td>Discrete Mathematics</td><td>Hasan Oveys</td></tr>
+  <tr><td>MATH-UA 120</td><td>Discrete Mathmatics</td><td>Hasan Oveys</td></tr>
   <tr><td>CSCI-UA 310</td><td>Algorithms</td><td>Areeba Ikram</td></tr>
   <tr><td>CSCI-UA 201</td><td>Computer Systems Organization</td><td>Hasan Aljabbouli</td></tr>
   <tr><td>CSCI-UA 102</td><td>Data Structures</td><td>Anasse Bari</td></tr>
