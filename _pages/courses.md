@@ -49,25 +49,29 @@ I am fortunate enough to have the opportunities to take the following courses wi
     <th>Instructor</th>
   </tr>
   <tr><td>CME 308</td><td>Stochastic Methods in Engineering</td><td>Peter Glynn</td></tr>
-  <tr><td>ECON 272</td><td>Intermediate Econometrics III: Methods for Applied Econometrics</td><td>Guido Imbens</td></tr>
+  <tr><td>ECON 272</td><td>Methods for Applied Econometrics</td><td>Guido Imbens</td></tr>
   <tr><td>EE 364A</td><td>Convex Optimization I</td><td>Stephen Boyd</td></tr>
+  <tr><td>MS&E 319</td><td>Matching Theory</td><td>Amin Saberi</td></tr>
+  <tr><td>MS&E 328</td><td>Foundations of Causal Machine Learning</td><td>Vasilis Syrgkanis</td></tr>
+  <tr><td>MS&E 365</td><td>Market Design in the Age of Transformative AI</td><td>Daniela Saban; Itai Ashlagi</td></tr>
+  <tr><td>MS&E 379</td><td>Social Data Analysis</td><td>Charles Eesley</td></tr>
+  <tr><td>STATS 209</td><td>Introduction to Causal Inference</td><td>Dominik Rothenhaeusler</td></tr>
   <tr><td>STATS 300A</td><td>Theory of Statistics I</td><td>Joseph Romano</td></tr>
   <tr><td>STATS 300B</td><td>Theory of Statistics II</td><td>Tselil Schramm</td></tr>
   <tr><td>STATS 300C</td><td>Theory of Statistics III</td><td>Emmanuel Candes</td></tr>
   <tr><td>STATS 305A</td><td>Applied Statistics I</td><td>Trevor Hastie</td></tr>
   <tr><td>STATS 310A</td><td>Theory of Probability I</td><td>Persi Diaconis</td></tr>
+  <tr><td>STATS 315A</td><td>Modern Statistical Learning</td><td>Brian Trippe</td></tr>
+  <tr><td>STATS 331</td><td>Survival Analysis</td><td>Lu Tian; Ying Lu</td></tr>
   <tr><td>STATS 361</td><td>Causal Inference</td><td>Stefan Wager</td></tr>
   <tr><td>STATS 371</td><td>Applied Bayesian Statistics</td><td>Wing H Wong</td></tr>
-  <tr><td>CME 302</td><td>Numerical Linear Algebra</td><td>Eric Darve</td></tr>
-  <tr><td>MS&E 319</td><td>Matching Theory</td><td>Amin Saberi</td></tr>
-  <tr><td>MS&E 379</td><td>Social Data Analysis</td><td>Charles Eesley</td></tr>
-  <tr><td>STATS 209</td><td>Introduction to Causal Inference</td><td>Dominik Rothenhaeusler</td></tr>
   
   <!---
   <tr><td>STATS 264</td><td>Foundations of Statistical and Scientific Inference</td><td>Steven Goodman</td></tr>
   <tr><td>STATS 305B</td><td>Applied Statistics II</td><td>Dominik Rothenhaeusler</td></tr>
   <tr><td>STATS 305C</td><td>Applied Statistics III</td><td>Scott Linderman</td></tr>
   <tr><td>STATS 307</td><td>Time Series Analysis</td><td>David Donoho</td></tr>
+  <tr><td>CME 302</td><td>Numerical Linear Algebra</td><td>Eric Darve</td></tr>
   -->
   
 </table>
