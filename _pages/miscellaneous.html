@@ -1,0 +1,107 @@
+---
+layout: page
+title: Miscellaneous
+permalink: /miscellaneous/
+---
+
+<style>
+.orienteering-container {
+  max-width: 900px;
+  margin: 2rem auto;
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin-top: 1.5rem;
+}
+
+.photo-item {
+  text-align: center;
+}
+
+.photo-item img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.caption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+#map {
+  height: 400px;
+  margin-top: 2rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+</style>
+
+<div class="orienteering-container">
+
+  <p>
+    Outside of research, I enjoy orienteering — long-distance navigation combining endurance,
+    terrain reading, and strategic route planning.
+  </p>
+
+  <!-- 2x2 photo grid -->
+  <div class="photo-grid">
+    <div class="photo-item">
+      <img src="/images/orienteering_1.jpg" alt="Orienteering photo 1">
+      <div class="caption">Stanford Invitational, 2023</div>
+    </div>
+
+    <div class="photo-item">
+      <img src="/images/orienteering_2.jpg" alt="Orienteering photo 2">
+      <div class="caption">Redwood Regional Park, Oakland</div>
+    </div>
+
+    <div class="photo-item">
+      <img src="/images/orienteering_3.jpg" alt="Orienteering photo 3">
+      <div class="caption">NorCal Champs, Point Reyes</div>
+    </div>
+
+    <div class="photo-item">
+      <img src="/images/orienteering_4.jpg" alt="Orienteering photo 4">
+      <div class="caption">Training in the Santa Cruz Mountains</div>
+    </div>
+  </div>
+
+  <h3>Race Locations</h3>
+  <div id="map"></div>
+
+</div>
+
+<!-- Leaflet map -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<script>
+  // Initialize map
+  const map = L.map('map').setView([37.5, -122.2], 6); // California-centered
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  // Race locations (edit these)
+  const races = [
+    { name: "Stanford Invitational", coords: [37.4275, -122.1697] },
+    { name: "Redwood Regional Park", coords: [37.8113, -122.1897] },
+    { name: "Point Reyes", coords: [38.0693, -122.8069] },
+    { name: "Santa Cruz Mountains", coords: [37.0161, -122.0583] }
+  ];
+
+  // Add markers
+  races.forEach(race => {
+    L.marker(race.coords)
+      .addTo(map)
+      .bindPopup(race.name);
+  });
+</script>
