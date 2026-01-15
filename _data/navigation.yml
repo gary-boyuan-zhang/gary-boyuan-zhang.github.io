@@ -20,3 +20,6 @@ main:
     
   - title: "CV"
     url: https://gary-boyuan-zhang.github.io/files/CV.pdf
+
+  - title: "Misc."
+    url: /misc/ 
