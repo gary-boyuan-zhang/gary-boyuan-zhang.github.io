@@ -12,9 +12,8 @@ permalink: /miscellaneous/
 
 .photo-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
   gap: 16px;
-  margin-top: 1.5rem;
 }
 
 .photo-item {
@@ -54,54 +53,95 @@ permalink: /miscellaneous/
   <div class="photo-grid">
     <div class="photo-item">
       <img src="/images/orienteering_1.jpg" alt="Orienteering photo 1">
-      <div class="caption">Stanford Invitational, 2023</div>
+      <div class="caption">Dongjiao Forest Park, Beijing, 2019</div>
     </div>
 
     <div class="photo-item">
       <img src="/images/orienteering_2.jpg" alt="Orienteering photo 2">
-      <div class="caption">Redwood Regional Park, Oakland</div>
+      <div class="caption">Old Summer Palace (Yuanmingyuan Park), Beijing, 2019</div>
     </div>
 
     <div class="photo-item">
       <img src="/images/orienteering_3.jpg" alt="Orienteering photo 3">
-      <div class="caption">NorCal Champs, Point Reyes</div>
+      <div class="caption">Huangcaowan Country Park, Beijing, 2019</div>
+    </div>
+    
+    <div class="photo-item">
+      <img src="/images/orienteering_4.jpg" alt="Orienteering photo 4">
+      <div class="caption">Huoshan Mountain, Heyuan, Guangdong, 2020</div>
     </div>
 
     <div class="photo-item">
-      <img src="/images/orienteering_4.jpg" alt="Orienteering photo 4">
-      <div class="caption">Training in the Santa Cruz Mountains</div>
+      <img src="/images/orienteering_6.jpg" alt="Orienteering photo 5">
+      <div class="caption">Wanlong Ski Resort, Chongli, Hebei, 2020</div>
+    </div>
+
+    <div class="photo-item">
+      <img src="/images/orienteering_7.jpg" alt="Orienteering photo 6">
+      <div class="caption">Olympic Forest Park, Beijing, 2020</div>
     </div>
   </div>
 
-  <h3>Race Locations</h3>
-  <div id="map"></div>
+<h3>Race Locations</h3>
+<div id="map"></div>
 
-</div>
+<style>
+  /* Make sure theme CSS cannot collapse the map */
+  #map {
+    width: 100%;
+    height: 420px;
+    min-height: 420px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background: #f8f8f8; /* helps you see the container even if tiles fail */
+  }
+</style>
 
-<!-- Leaflet map -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script>
-  // Initialize map
-  const map = L.map('map').setView([37.5, -122.2], 6); // California-centered
+document.addEventListener("DOMContentLoaded", function () {
+  if (typeof L === "undefined") {
+    console.error("Leaflet failed to load. Check the Leaflet <script> URL or network blocking.");
+    return;
+  }
 
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; OpenStreetMap contributors'
-  }).addTo(map);
+  const mapEl = document.getElementById("map");
+  if (!mapEl) {
+    console.error("Map container #map not found.");
+    return;
+  }
 
-  // Race locations (edit these)
   const races = [
-    { name: "Stanford Invitational", coords: [37.4275, -122.1697] },
-    { name: "Redwood Regional Park", coords: [37.8113, -122.1897] },
-    { name: "Point Reyes", coords: [38.0693, -122.8069] },
-    { name: "Santa Cruz Mountains", coords: [37.0161, -122.0583] }
+    { name: "Point Reyes (NorCal Champs)", coords: [38.0693, -122.8069] },
+    { name: "Santa Cruz Mountains (Training)", coords: [37.0161, -122.0583] },
+    // Add the other two here
   ];
 
-  // Add markers
-  races.forEach(race => {
-    L.marker(race.coords)
-      .addTo(map)
-      .bindPopup(race.name);
+  const map = L.map("map", { scrollWheelZoom: false });
+
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 19,
+    attribution: "&copy; OpenStreetMap contributors",
+  }).addTo(map);
+
+  const bounds = [];
+  races.forEach((r) => {
+    L.marker(r.coords).addTo(map).bindPopup(r.name);
+    bounds.push(r.coords);
   });
+
+  if (bounds.length > 0) {
+    map.fitBounds(bounds, { padding: [20, 20] });
+  } else {
+    map.setView([37.5, -122.2], 6);
+  }
+
+  // If your layout loads fonts/images late, this avoids “blank tiles” on first render
+  setTimeout(() => map.invalidateSize(), 200);
+});
 </script>
