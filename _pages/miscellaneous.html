@@ -49,7 +49,7 @@ permalink: /miscellaneous/
     terrain reading, and strategic route planning.
   </p>
 
-  <!-- 2x2 photo grid -->
+  <!-- 2x3 photo grid -->
   <div class="photo-grid">
     <div class="photo-item">
       <img src="/images/orienteering_1.jpg" alt="Orienteering photo 1">
@@ -82,66 +82,18 @@ permalink: /miscellaneous/
     </div>
   </div>
 
+
+
 <h3>Race Locations</h3>
-<div id="map"></div>
 
-<style>
-  /* Make sure theme CSS cannot collapse the map */
-  #map {
-    width: 100%;
-    height: 420px;
-    min-height: 420px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    background: #f8f8f8; /* helps you see the container even if tiles fail */
-  }
-</style>
+<div style="max-width: 900px;">
+  <iframe
+    src="https://www.google.com/maps/d/u/1/embed?mid=12JLGHXNxtfC3pHVUCivpI4kVMazjcMo&ehbc=2E312F&noprof=1"
+    width="100%"
+    height="450"
+    style="border:1px solid #ddd; border-radius:4px;"
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</div>
 
-<link
-  rel="stylesheet"
-  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-/>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  if (typeof L === "undefined") {
-    console.error("Leaflet failed to load. Check the Leaflet <script> URL or network blocking.");
-    return;
-  }
-
-  const mapEl = document.getElementById("map");
-  if (!mapEl) {
-    console.error("Map container #map not found.");
-    return;
-  }
-
-  const races = [
-    { name: "Point Reyes (NorCal Champs)", coords: [38.0693, -122.8069] },
-    { name: "Santa Cruz Mountains (Training)", coords: [37.0161, -122.0583] },
-    // Add the other two here
-  ];
-
-  const map = L.map("map", { scrollWheelZoom: false });
-
-  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    maxZoom: 19,
-    attribution: "&copy; OpenStreetMap contributors",
-  }).addTo(map);
-
-  const bounds = [];
-  races.forEach((r) => {
-    L.marker(r.coords).addTo(map).bindPopup(r.name);
-    bounds.push(r.coords);
-  });
-
-  if (bounds.length > 0) {
-    map.fitBounds(bounds, { padding: [20, 20] });
-  } else {
-    map.setView([37.5, -122.2], 6);
-  }
-
-  // If your layout loads fonts/images late, this avoids “blank tiles” on first render
-  setTimeout(() => map.invalidateSize(), 200);
-});
-</script>
