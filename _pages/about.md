@@ -26,7 +26,7 @@ In addition, I share a strong passion for [teaching](https://gary-boyuan-zhang.g
 
 I could be reached at **boyuan.zhang [at] stanford.edu**
 
-When not working, you might find me [orienteering]() 🏃‍♂️🧭🗺️ in some [random forest]()🌲🌳
+When not working, you might find me [orienteering](https://gary-boyuan-zhang.github.io/misc/) 🏃‍♂️🧭🗺️ in some [random forest](https://gary-boyuan-zhang.github.io/misc/)🌲🌳
 
 <!---
 , joint majoring in Data Science and Computer Science and double minoring in Mathematics and Business Studies. 
