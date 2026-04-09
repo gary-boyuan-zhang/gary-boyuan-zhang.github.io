@@ -140,7 +140,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
     <th>Instructor</th>
   </tr>
   <tr><td>CSCI-UA 479</td><td>Data Management and Analysis</td><td>Matthew Zeidenberg</td></tr>
-  <tr><td>DS-UA 202</td><td>Predictive Analytics</td><td>Elisha Cohen</td></tr>
+  <tr><td>DS-UA 202</td><td><a href="https://dataresponsibly.github.io/rds23/">Responsible Data Science</a></td><td>Elisha Cohen</td></tr>
   <tr><td>DS-UA 112</td><td>Introduction to Data Science</td><td>Pascal Wallisch</td></tr>
 </table>
 
