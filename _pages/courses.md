@@ -41,8 +41,8 @@ I am fortunate enough to have the opportunities to take the following courses wi
 <table class="course-table">
   <colgroup>
     <col style="width:20%">
-    <col style="width:40%">
-    <col style="width:40%">
+    <col style="width:50%">
+    <col style="width:30%">
   </colgroup>
   <tr>
     <th>Course Code</th>
@@ -66,8 +66,8 @@ I am fortunate enough to have the opportunities to take the following courses wi
   <tr><td>STATS 305A</td><td>Applied Statistics I</td><td>Trevor Hastie</td></tr>
   <tr><td>STATS 310A</td><td>Theory of Probability I</td><td>Persi Diaconis</td></tr>
   <tr><td>STATS 331</td><td>Survival Analysis</td><td>Lu Tian; Ying Lu</td></tr>
-  <tr><td>STATS 354</td><td>Generalization and Causality in Biohealth</td><td>Emily Fox</td></tr>
-  <tr><td>STATS 357</td><td>Reliability and Validity in Artificial Intelligence</td><td>Tijana Zrnic</td></tr>
+  <tr><td>STATS 354</td><td>[Generalization and Causality in Biohealth](https://ebfox.github.io/stats354/)</td><td>Emily Fox</td></tr>
+  <tr><td>STATS 357</td><td>[Reliability and Validity in Artificial Intelligence](https://tijana-zrnic.github.io/stats357/)</td><td>Tijana Zrnic</td></tr>
   <tr><td>STATS 361</td><td>Causal Inference</td><td>Stefan Wager</td></tr>
   <tr><td>STATS 371</td><td>Applied Bayesian Statistics</td><td>Wing H Wong</td></tr>
   
@@ -90,9 +90,9 @@ I am fortunate enough to have the opportunities to take the following courses wi
 <h3>Probability &amp; Statistics</h3>
 <table class="course-table">
   <colgroup>
-    <col style="width:25%">
+    <col style="width:20%">
     <col style="width:50%">
-    <col style="width:25%">
+    <col style="width:30%">
   </colgroup>
   <tr>
     <th>Course Code</th>
@@ -111,9 +111,9 @@ I am fortunate enough to have the opportunities to take the following courses wi
 <h3>Statistical &amp; Machine Learning</h3>
 <table class="course-table">
   <colgroup>
-    <col style="width:25%">
+    <col style="width:20%">
     <col style="width:50%">
-    <col style="width:25%">
+    <col style="width:30%">
   </colgroup>
   <tr>
     <th>Course Code</th>
@@ -131,9 +131,9 @@ I am fortunate enough to have the opportunities to take the following courses wi
 <h3>Data Science</h3>
 <table class="course-table">
   <colgroup>
-    <col style="width:25%">
+    <col style="width:20%">
     <col style="width:50%">
-    <col style="width:25%">
+    <col style="width:30%">
   </colgroup>
   <tr>
     <th>Course Code</th>
@@ -148,9 +148,9 @@ I am fortunate enough to have the opportunities to take the following courses wi
 <h3>Mathematical &amp; Algorithmic Foundations</h3>
 <table class="course-table">
   <colgroup>
-    <col style="width:25%">
+    <col style="width:20%">
     <col style="width:50%">
-    <col style="width:25%">
+    <col style="width:30%">
   </colgroup>
   <tr>
     <th>Course Code</th>
