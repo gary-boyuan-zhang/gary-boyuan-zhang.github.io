@@ -99,7 +99,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
     <th>Course Name</th>
     <th>Instructor</th>
   </tr>
-  <tr><td>DS-GA 3001</td><td>Applied Statistics</td><td>Yanjun Han</td></tr>
+  <tr><td>DS-GA 3001</td><td><a href="https://yanjunhan2021.github.io/courses/applied_stats/index.html">Applied Statistics</a></td><td>Yanjun Han</td></tr>
   <tr><td>DS-GA 1020</td><td>Mathematical Statistics</td><td>Jonathan Niles-Weed</td></tr>
   <tr><td>DS-GA 3001</td><td>Probability and Statistics 2</td><td>Carlos Fernandez-Granda</td></tr>
   <tr><td>STAT-UB 21</td><td>Introduction to Stochastic Processes</td><td>Halina Frydman</td></tr>
@@ -121,8 +121,8 @@ I am fortunate enough to have the opportunities to take the following courses wi
     <th>Instructor</th>
   </tr>
   <tr><td>MATH-GA 2840</td><td>Theory of Deep Learning</td><td>Arthur Jacot</td></tr>
-  <tr><td>DS-GA 3001</td><td>Modern Topics in Statistical Learning Theory</td><td>Qi Lei</td></tr>
-  <tr><td>CSCI-GA 3033</td><td>Machine Learning for Healthcare</td><td>Rajesh Ranganath</td></tr>
+  <tr><td>DS-GA 3001</td><td><a href="https://cecilialeiqi.github.io/teaching2023.html">Modern Topics in Statistical Learning Theory</a></td><td>Qi Lei</td></tr>
+  <tr><td>CSCI-GA 3033</td><td><a href="https://rajeshhr.github.io/mlhc-2023/">Machine Learning for Healthcare</a></td><td>Rajesh Ranganath</td></tr>
   <tr><td>DS-UA 301</td><td>Advanced Techniques in Machine Learning and Deep Learning</td><td>Parijat Dube</td></tr>
   <tr><td>CSCI-UA 475</td><td>Predictive Analytics</td><td>Anasse Bari</td></tr>
   <tr><td>CSCI-UA 473</td><td>Introduction to Machine Learning</td><td>Lerrel Pinto</td></tr>
