@@ -36,7 +36,6 @@ I am fortunate enough to have the opportunities to take the following courses wi
 
 
 ## at Stanford:
-(all PhD level unless otherwise noted; *master level)
 
 <table class="course-table">
   <colgroup>
