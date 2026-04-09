@@ -40,9 +40,9 @@ I am fortunate enough to have the opportunities to take the following courses wi
 
 <table class="course-table">
   <colgroup>
-    <col style="width:15%">
+    <col style="width:20%">
     <col style="width:55%">
-    <col style="width:30%">
+    <col style="width:25%">
   </colgroup>
   <tr>
     <th>Course Code</th>
@@ -50,25 +50,25 @@ I am fortunate enough to have the opportunities to take the following courses wi
     <th>Instructor</th>
   </tr>
   <tr><td>CME 308</td><td>Stochastic Methods in Engineering</td><td>Peter Glynn</td></tr>
-  <tr><td>ECON 272</td><td>Methods for Applied Econometrics</td><td>Guido Imbens</td></tr>
-  <tr><td>EE 364A</td><td>Convex Optimization I</td><td>Stephen Boyd</td></tr>
+  <tr><td>EE 364A</td><td> <a href="https://web.stanford.edu/class/ee364a/">Convex Optimization I</a> </td><td>Stephen Boyd</td></tr>
+  <tr><td>MGTECON 607</td><td>Methods for Applied Econometrics</td><td>Guido Imbens</td></tr>
   <tr><td>MGTECON 614</td><td>Emerging Topics in Econometrics</td><td>Lihua Lei</td></tr>
   <tr><td>MS&E 319</td><td>Matching Theory</td><td>Amin Saberi</td></tr>
   <tr><td>MS&E 326</td><td>Causal Inference for Policy Evaluation in Dynamic Systems</td><td>Ramesh Johari</td></tr>
-  <tr><td>MS&E 328</td><td>Foundations of Causal Machine Learning</td><td>Vasilis Syrgkanis</td></tr>
+  <tr><td>MS&E 328</td><td> <a href="https://stanford-msande328.github.io/winter26/">Foundations of Causal Machine Learning</a> </td><td>Vasilis Syrgkanis</td></tr>
   <tr><td>MS&E 365</td><td>Market Design in the Age of Transformative AI</td><td>Daniela Saban; Itai Ashlagi</td></tr>
   <tr><td>MS&E 379</td><td>Social Data Analysis</td><td>Charles Eesley</td></tr>
-  <tr><td>OIT 677</td><td>Stochastic Modeling for Data-Driven Decision Making</td><td>Kuang Xu</td></tr>
+  <tr><td>OIT 677</td><td> <a href="https://github.com/kuangxu/charting_reality_stochastic_modeling">Stochastic Modeling for Data-Driven Decision Making</a></td><td>Kuang Xu</td></tr>
   <tr><td>STATS 209*</td><td>Introduction to Causal Inference</td><td>Dominik Rothenhaeusler</td></tr>
   <tr><td>STATS 300A</td><td>Theory of Statistics I</td><td>Joseph Romano</td></tr>
-  <tr><td>STATS 300B</td><td>Theory of Statistics II</td><td>Tselil Schramm</td></tr>
+  <tr><td>STATS 300B</td><td> <a href="https://tselilschramm.org/statstheory/stats300b-winter25.html">Theory of Statistics II</a> </td><td>Tselil Schramm</td></tr>
   <tr><td>STATS 300C</td><td>Theory of Statistics III</td><td>Emmanuel Candes</td></tr>
   <tr><td>STATS 305A</td><td>Applied Statistics I</td><td>Trevor Hastie</td></tr>
   <tr><td>STATS 310A</td><td>Theory of Probability I</td><td>Persi Diaconis</td></tr>
   <tr><td>STATS 331</td><td>Survival Analysis</td><td>Lu Tian; Ying Lu</td></tr>
   <tr><td>STATS 354</td><td><a href="https://ebfox.github.io/stats354/">Generalization and Causality in Biohealth</a></td><td>Emily Fox</td></tr>
-  <tr><td>STATS 357</td><td><a href="https://tijana-zrnic.github.io/stats357/">Reliability and Validity in Artificial Intelligence</a>a</td><td>Tijana Zrnic</td></tr>
-  <tr><td>STATS 361</td><td>Causal Inference</td><td>Stefan Wager</td></tr>
+  <tr><td>STATS 357</td><td><a href="https://tijana-zrnic.github.io/stats357/">Reliability and Validity in Artificial Intelligence</a></td><td>Tijana Zrnic</td></tr>
+  <tr><td>STATS 361</td><td> <a href="https://web.stanford.edu/~swager/causal_inf_book.pdf">Causal Inference</a></td><td>Stefan Wager</td></tr>
   <tr><td>STATS 371</td><td>Applied Bayesian Statistics</td><td>Wing H Wong</td></tr>
   
   <!---
@@ -90,9 +90,9 @@ I am fortunate enough to have the opportunities to take the following courses wi
 <h3>Probability &amp; Statistics</h3>
 <table class="course-table">
   <colgroup>
-    <col style="width:15%">
+    <col style="width:20%">
     <col style="width:55%">
-    <col style="width:30%">
+    <col style="width:25%">
   </colgroup>
   <tr>
     <th>Course Code</th>
@@ -111,9 +111,9 @@ I am fortunate enough to have the opportunities to take the following courses wi
 <h3>Statistical &amp; Machine Learning</h3>
 <table class="course-table">
   <colgroup>
-    <col style="width:15%">
+    <col style="width:20%">
     <col style="width:55%">
-    <col style="width:30%">
+    <col style="width:25%">
   </colgroup>
   <tr>
     <th>Course Code</th>
@@ -131,9 +131,9 @@ I am fortunate enough to have the opportunities to take the following courses wi
 <h3>Data Science</h3>
 <table class="course-table">
   <colgroup>
-    <col style="width:15%">
+    <col style="width:20%">
     <col style="width:55%">
-    <col style="width:30%">
+    <col style="width:25%">
   </colgroup>
   <tr>
     <th>Course Code</th>
@@ -148,9 +148,9 @@ I am fortunate enough to have the opportunities to take the following courses wi
 <h3>Mathematical &amp; Algorithmic Foundations</h3>
 <table class="course-table">
   <colgroup>
-    <col style="width:15%">
+    <col style="width:20%">
     <col style="width:55%">
-    <col style="width:30%">
+    <col style="width:25%">
   </colgroup>
   <tr>
     <th>Course Code</th>
