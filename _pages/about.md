@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a master's student in the [Department of Statistics](https://stats.stanford.edu) at [Stanford University](https://www.stanford.edu). Previously, I received my bachelor's degree in Computer and Data Science from [New York University](https://www.nyu.edu/).
+Hi! I am an M.S. student in the [Department of Statistics](https://stats.stanford.edu) at [Stanford University](https://www.stanford.edu). Previously, I received my bachelor's degree in Computer and Data Science from [New York University](https://www.nyu.edu/).
 My research interests lie at the intersection of causality, statistical inference, and machine learning, with applications in healthcare, public policy, social science, and sports.
 
 <!---
