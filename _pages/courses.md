@@ -124,7 +124,7 @@ I am fortunate enough to have the opportunities to take the following courses wi
   <tr><td>CSCI-GA 3033</td><td><a href="https://rajeshhr.github.io/mlhc-2023/">Machine Learning for Healthcare</a></td><td>Rajesh Ranganath</td></tr>
   <tr><td>DS-UA 301</td><td>Advanced Techniques in Machine Learning and Deep Learning</td><td>Parijat Dube</td></tr>
   <tr><td>CSCI-UA 475</td><td>Predictive Analytics</td><td>Anasse Bari</td></tr>
-  <tr><td>CSCI-UA 473</td><td>Introduction to Machine Learning</td><td>Lerrel Pinto</td></tr>
+  <tr><td>CSCI-UA 473</td><td><a href="https://nyu-robot-learning.github.io/ml-class/">Introduction to Machine Learning</a></td><td>Lerrel Pinto</td></tr>
 </table>
 
 <h3>Data Science</h3>
