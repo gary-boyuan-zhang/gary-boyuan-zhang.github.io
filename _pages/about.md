@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 Hi! I am an M.S. student in the [Department of Statistics](https://stats.stanford.edu) at [Stanford University](https://www.stanford.edu). Previously, I received my bachelor's degree in Computer and Data Science from [New York University](https://www.nyu.edu/).
-My research interests lie at the intersection of causality, statistical inference, and machine learning, with applications in healthcare, public policy, social science, and sports.
+
+My research interests lie at the intersection of causality, statistical inference, machine learning, and AI evaluation, with applications in healthcare, policy, social science, marketplaces, and sports.
 
 <!---
 During my undergrad, I am fortunate to work under the guidance of [Dr. Wesley Tansey](https://wesleytansey.com/), [Prof. Daniel Neill](http://cs.nyu.edu/~neill), [Prof. Ron Yurko](https://www.stat.cmu.edu/~ryurko), and [Prof. Konstantinos Pelechrinis](https://sites.pitt.edu/~kpele).
