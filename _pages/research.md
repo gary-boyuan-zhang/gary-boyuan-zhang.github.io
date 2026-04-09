@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-
+<!---
 You can also find my works on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&authuser=1&user=8vND9lMAAAAJ).
-
+-->
 
 {% include base_path %}
 
