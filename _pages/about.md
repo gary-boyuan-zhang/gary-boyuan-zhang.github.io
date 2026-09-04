@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,18 @@ redirect_from:
   - /about.html
 ---
 
+
+Hi! I am a Ph.D. student in Computer Science at Johns Hopkins University, advised by [Prof. Michael Oberst](https://www.michaelkoberst.com/). Previously, I received an M.S. in Statistics from Stanford University and a B.A. in Computer and Data Science from New York University.
+
+My research lies at the intersection of causal inference, statistical inference, and machine learning, with a particular interest in reliable AI evaluation and applications in healthcare.
+
+<!---
+
 Hi! I am an M.S. student in the [Department of Statistics](https://stats.stanford.edu) at [Stanford University](https://www.stanford.edu). Previously, I received my bachelor's degree in Computer and Data Science from [New York University](https://www.nyu.edu/).
 
 I am broadly interested in causality, statistical inference, machine learning, and AI evaluation, with applications in healthcare, policy, social science, marketplaces, and sports.
 
-<!---
+
 During my undergrad, I am fortunate to work under the guidance of [Dr. Wesley Tansey](https://wesleytansey.com/), [Prof. Daniel Neill](http://cs.nyu.edu/~neill), [Prof. Ron Yurko](https://www.stat.cmu.edu/~ryurko), and [Prof. Konstantinos Pelechrinis](https://sites.pitt.edu/~kpele).
 
 
@@ -25,7 +32,7 @@ More of my background can be found in [CV](https://gary-boyuan-zhang.github.io/f
 In addition, I share a strong passion for [teaching](https://gary-boyuan-zhang.github.io/teaching/).
 -->
 
-I could be reached at **boyuan.zhang [at] stanford.edu**
+I could be reached at **boyuan [dot] zhang [at] cs [dot] jhu [dot] edu**
 
 When not working, you might find me [orienteering](https://gary-boyuan-zhang.github.io/misc/) 🏃‍♂️🧭🗺️ in some [random forest](https://gary-boyuan-zhang.github.io/misc/)🌲🌳
 
