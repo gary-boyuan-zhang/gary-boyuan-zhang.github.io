@@ -11,7 +11,8 @@ redirect_from:
 
 Hi! I am a Ph.D. student in Computer Science at Johns Hopkins University, advised by [Prof. Michael Oberst](https://www.michaelkoberst.com/). Previously, I received an M.S. in Statistics from Stanford University and a B.A. in Computer and Data Science from New York University.
 
-My research lies at the intersection of causal inference, statistical inference, and machine learning, with a particular interest in reliable AI evaluation and applications in healthcare.
+My research lies at the intersection of causal inference, statistics, machine learning, and AI evaluation, with applications in healthcare, policy, social science, marketplaces, and sports.
+
 
 <!---
 
